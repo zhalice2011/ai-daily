@@ -25,19 +25,19 @@ jobs:
           OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
         run: |
-          mkdir -p docs
+          mkdir -p web/docs
           DATE=$(date -u +%Y_%m_%d)
           bun scripts/digest.ts \
             --hours 28 \
             --top-n 15 \
             --lang zh \
-            --output "./docs/${DATE}.md"
+            --output "./web/docs/${DATE}.md"
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
+          git add web/docs/
           if ! git diff --cached --quiet; then
             git commit -m "chore: daily digest $(date -u +%Y-%m-%d)"
             git push

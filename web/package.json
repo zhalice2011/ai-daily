@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "prebuild": "cp -r ../docs ./docs 2>/dev/null || mkdir -p ./docs"
+    "start": "next start"
   },
   "dependencies": {
     "lucide-react": "^0.575.0",
