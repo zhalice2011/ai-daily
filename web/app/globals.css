@@ -1,0 +1,155 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/*
+ * Theme: dark-first, class-based toggle with system fallback.
+ * <html class="dark"> by default; JS toggles to <html class="light">.
+ */
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg: #0f172a;         /* slate-950 */
+  --surface: #0f172a;    /* slate-950 */
+  --surface-card: #1e293b; /* slate-800 */
+  --border: #334155;     /* slate-700 */
+  --text: #f8fafc;       /* slate-50 */
+  --text-muted: #94a3b8; /* slate-400 */
+  --accent: #22c55e;     /* emerald-500 */
+  --accent-dim: #166534; /* emerald-800 */
+}
+
+.light {
+  --bg: #f8fafc;         /* slate-50 */
+  --surface: #ffffff;
+  --surface-card: #ffffff;
+  --border: #e2e8f0;     /* slate-200 */
+  --text: #0f172a;       /* slate-900 */
+  --text-muted: #64748b; /* slate-500 */
+  --accent: #16a34a;     /* emerald-600 */
+  --accent-dim: #dcfce7; /* emerald-100 */
+}
+
+/* --- Base --- */
+
+html {
+  color-scheme: dark;
+}
+
+html.light {
+  color-scheme: light;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+/* --- Prose overrides for dark mode --- */
+
+.prose-themed {
+  --tw-prose-body: var(--text);
+  --tw-prose-headings: var(--text);
+  --tw-prose-links: var(--accent);
+  --tw-prose-bold: var(--text);
+  --tw-prose-code: var(--text);
+  --tw-prose-pre-bg: var(--surface-card);
+  --tw-prose-pre-code: var(--text);
+  --tw-prose-quotes: var(--text-muted);
+  --tw-prose-quote-borders: var(--border);
+  --tw-prose-counters: var(--text-muted);
+  --tw-prose-bullets: var(--text-muted);
+  --tw-prose-hr: var(--border);
+  --tw-prose-th-borders: var(--border);
+  --tw-prose-td-borders: var(--border);
+  --tw-prose-captions: var(--text-muted);
+}
+
+.prose-themed :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-themed :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)):hover {
+  color: var(--accent);
+  opacity: 0.8;
+}
+
+.prose-themed :where(pre):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  border: 1px solid var(--border);
+}
+
+.prose-themed :where(code):not(:where(pre code, [class~="not-prose"], [class~="not-prose"] *)) {
+  background-color: var(--surface-card);
+  border: 1px solid var(--border);
+  border-radius: 0.25rem;
+  padding: 0.125rem 0.375rem;
+  font-size: 0.875em;
+}
+
+.prose-themed :where(th):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--text);
+}
+
+.prose-themed :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--text-muted);
+}
+
+/* --- Scrollbar --- */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+/* --- Digest layout: TOC sidebar + article --- */
+
+.digest-layout {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 2rem;
+}
+
+.digest-toc {
+  display: none;
+  position: sticky;
+  top: 4.5rem;
+  max-height: calc(100vh - 5rem);
+  overflow-y: auto;
+}
+
+.digest-article {
+  min-width: 0;
+}
+
+@media (min-width: 1024px) {
+  .digest-toc {
+    display: block;
+  }
+}
+
+@media (max-width: 1023px) {
+  .digest-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.toc-link:hover {
+  color: var(--text) !important;
+  background-color: var(--surface-card) !important;
+}
+
+/* Smooth scroll for anchor links */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}

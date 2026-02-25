@@ -1,0 +1,12 @@
+generated_imgs/
+node_modules/
+*.log
+.env
+.env.local
+
+# Next.js (web/)
+web/node_modules/
+web/.next/
+web/out/
+web/docs/
+cache-**.json

@@ -1,0 +1,44 @@
+name: Daily Digest
+
+on:
+  schedule:
+    # UTC 06:00 = Beijing 14:00
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Generate digest
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+        run: |
+          mkdir -p docs
+          DATE=$(date -u +%Y_%m_%d)
+          bun scripts/digest.ts \
+            --hours 28 \
+            --top-n 15 \
+            --lang zh \
+            --output "./docs/${DATE}.md"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: daily digest $(date -u +%Y-%m-%d)"
+            git push
+          fi
