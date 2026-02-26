@@ -3,10 +3,20 @@ import { join } from 'node:path';
 
 const DOCS_DIR = join(process.cwd(), 'docs');
 const DATE_RE = /^(\d{4}_\d{2}_\d{2})\.md$/;
+const WEEKLY_RE = /^weekly_(\d{4}_\d{2}_\d{2})\.md$/;
+const MONTHLY_RE = /^monthly_(\d{4}_\d{2}_\d{2})\.md$/;
 
 export interface DigestEntry {
   date: string;      // YYYY_MM_DD
   displayDate: string; // YYYY-MM-DD
+}
+
+export type RankingType = 'weekly' | 'monthly';
+
+export interface RankingEntry {
+  date: string;        // weekly_YYYY_MM_DD or monthly_YYYY_MM_DD
+  displayDate: string; // YYYY-MM-DD
+  type: RankingType;
 }
 
 export async function listDigests(): Promise<DigestEntry[]> {
@@ -24,6 +34,37 @@ export async function listDigests(): Promise<DigestEntry[]> {
       return { date, displayDate: date.replace(/_/g, '-') };
     })
     .sort((a, b) => b.date.localeCompare(a.date));
+}
+
+export async function listRankings(): Promise<RankingEntry[]> {
+  let files: string[];
+  try {
+    files = await readdir(DOCS_DIR);
+  } catch {
+    return [];
+  }
+
+  const entries: RankingEntry[] = [];
+
+  for (const f of files) {
+    let match: RegExpMatchArray | null;
+
+    if ((match = WEEKLY_RE.exec(f))) {
+      entries.push({
+        date: `weekly_${match[1]}`,
+        displayDate: match[1]!.replace(/_/g, '-'),
+        type: 'weekly',
+      });
+    } else if ((match = MONTHLY_RE.exec(f))) {
+      entries.push({
+        date: `monthly_${match[1]}`,
+        displayDate: match[1]!.replace(/_/g, '-'),
+        type: 'monthly',
+      });
+    }
+  }
+
+  return entries.sort((a, b) => b.date.localeCompare(a.date));
 }
 
 export async function getDigestContent(date: string, lang?: string): Promise<string | null> {

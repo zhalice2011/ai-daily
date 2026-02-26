@@ -1,8 +1,10 @@
 import type { Metadata } from 'next';
 import { Suspense } from 'react';
 import { Newspaper } from 'lucide-react';
+import { listRankings } from '@/lib/docs';
 import ThemeToggle from './theme-toggle';
 import LangToggle from './lang-toggle';
+import NavLinks from './nav-links';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -10,11 +12,15 @@ export const metadata: Metadata = {
   description: 'AI-curated daily digest from top Hacker News blogs',
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  const rankings = await listRankings();
+  const latestWeekly = rankings.find((r) => r.type === 'weekly');
+  const latestMonthly = rankings.find((r) => r.type === 'monthly');
+
   return (
     <html lang="zh" className="dark" suppressHydrationWarning>
       <head>
@@ -39,22 +45,12 @@ export default function RootLayout({
               <span>AI Daily Digest</span>
             </a>
             <div className="flex items-center gap-3">
-              <a
-                href="/archives"
-                className="text-sm transition-colors"
-                style={{ color: 'var(--text-muted)' }}
-              >
-                Archives
-              </a>
-              <a
-                href="https://github.com/zhalice2011/ai-daily"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm transition-colors"
-                style={{ color: 'var(--text-muted)' }}
-              >
-                GitHub
-              </a>
+              <Suspense>
+                <NavLinks
+                  latestWeekly={latestWeekly}
+                  latestMonthly={latestMonthly}
+                />
+              </Suspense>
               <ThemeToggle />
               <Suspense>
                 <LangToggle />

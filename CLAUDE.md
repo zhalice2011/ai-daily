@@ -87,6 +87,30 @@ The script uses OpenAI-compatible Chat Completions API. Configure via `OPENAI_AP
 - **Manual XML parsing** — regex-based RSS/Atom parsing to avoid dependency on an XML library
 - **Persistent config** — saved at `~/.hn-daily-digest/config.json` for reuse across runs
 
+## Ranking Script (Weekly/Monthly)
+
+`scripts/ranking.ts` generates weekly/monthly top-N rankings from existing daily digest markdown files. No AI calls — pure markdown parsing + sorting.
+
+```bash
+# Weekly top 30 (past 7 days)
+bun scripts/ranking.ts --days 7 --top-n 30 --lang zh
+
+# Monthly top 30 (past 30 days)
+bun scripts/ranking.ts --days 30 --top-n 30 --lang en
+```
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--days <n>` | 7 | Look back N days |
+| `--top-n <n>` | 30 | Number of top articles |
+| `--lang <zh\|en>` | zh | Language |
+| `--docs <path>` | `./web/docs` | Docs directory |
+| `--output <path>` | auto | Output file path |
+
+Pipeline: `Scan daily digests → Parse articles → Deduplicate by link → Sort by score desc, date desc → Generate ranking markdown`
+
+Output files: `web/docs/weekly_YYYY_MM_DD.md`, `web/docs/monthly_YYYY_MM_DD.md`
+
 ## No Tests
 
 There is currently no test framework or test suite in this project.

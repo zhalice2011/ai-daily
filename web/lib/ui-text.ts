@@ -11,6 +11,9 @@ const uiText = {
     digest: '日报',
     notFound: '未找到该日期的日报',
     backHome: '返回首页',
+    weekly: '周榜',
+    monthly: '月榜',
+    rankings: '排行榜',
   },
   en: {
     archives: 'Archives',
@@ -24,6 +27,9 @@ const uiText = {
     digest: 'Digest',
     notFound: 'Digest not found for this date',
     backHome: 'Back to Home',
+    weekly: 'Weekly',
+    monthly: 'Monthly',
+    rankings: 'Rankings',
   },
 } as const;
 

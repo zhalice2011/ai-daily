@@ -1,0 +1,58 @@
+name: Weekly & Monthly Ranking
+
+on:
+  schedule:
+    # UTC 07:00 = Beijing 15:00 — runs after daily digest (UTC 06:00)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Generate weekly ranking (7 days)
+        run: |
+          DATE=$(date -u +%Y_%m_%d)
+          bun scripts/ranking.ts \
+            --days 7 \
+            --top-n 30 \
+            --lang zh \
+            --output "./web/docs/weekly_${DATE}.md"
+          bun scripts/ranking.ts \
+            --days 7 \
+            --top-n 30 \
+            --lang en \
+            --output "./web/docs/weekly_${DATE}_en.md"
+
+      - name: Generate monthly ranking (30 days)
+        run: |
+          DATE=$(date -u +%Y_%m_%d)
+          bun scripts/ranking.ts \
+            --days 30 \
+            --top-n 30 \
+            --lang zh \
+            --output "./web/docs/monthly_${DATE}.md"
+          bun scripts/ranking.ts \
+            --days 30 \
+            --top-n 30 \
+            --lang en \
+            --output "./web/docs/monthly_${DATE}_en.md"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/docs/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: weekly & monthly ranking $(date -u +%Y-%m-%d)"
+            git push
+          fi

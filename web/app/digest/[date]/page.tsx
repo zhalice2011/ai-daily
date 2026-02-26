@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getDigestContent, listDigests } from '@/lib/docs';
+import { getDigestContent, listDigests, listRankings } from '@/lib/docs';
 import { getUiText } from '@/lib/ui-text';
 import { ArrowLeft } from 'lucide-react';
 import DigestContent from '@/lib/digest-content';
@@ -19,22 +19,29 @@ export default async function DigestPage({ params, searchParams }: PageProps) {
     notFound();
   }
 
-  const displayDate = date.replace(/_/g, '-');
-  const archivesHref = lang === 'en' ? '/archives?lang=en' : '/archives';
+  const isRanking = date.startsWith('weekly_') || date.startsWith('monthly_');
+  const displayDate = date.replace(/^(weekly|monthly)_/, '').replace(/_/g, '-');
+  const backHref = lang === 'en'
+    ? (isRanking ? '/rankings?lang=en' : '/archives?lang=en')
+    : (isRanking ? '/rankings' : '/archives');
+  const backLabel = isRanking ? t.rankings : t.archives;
+  const pageLabel = isRanking
+    ? (date.startsWith('weekly_') ? t.weekly : t.monthly)
+    : t.digest;
 
   return (
     <div>
       <div className="mb-6 flex items-center gap-4">
         <a
-          href={archivesHref}
+          href={backHref}
           className="flex items-center gap-1 text-sm transition-colors"
           style={{ color: 'var(--text-muted)' }}
         >
           <ArrowLeft size={14} />
-          {t.archives}
+          {backLabel}
         </a>
         <h1 className="text-xl font-bold" style={{ color: 'var(--text)' }}>
-          {displayDate} {t.digest}
+          {displayDate} {pageLabel}
         </h1>
       </div>
       <DigestContent content={content} />
@@ -43,6 +50,9 @@ export default async function DigestPage({ params, searchParams }: PageProps) {
 }
 
 export async function generateStaticParams() {
-  const digests = await listDigests();
-  return digests.map((d) => ({ date: d.date }));
+  const [digests, rankings] = await Promise.all([listDigests(), listRankings()]);
+  return [
+    ...digests.map((d) => ({ date: d.date })),
+    ...rankings.map((r) => ({ date: r.date })),
+  ];
 }
