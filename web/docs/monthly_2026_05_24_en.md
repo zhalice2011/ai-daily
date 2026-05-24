@@ -1,0 +1,308 @@
+# 📊 AI Blog Monthly Top 30 — 2026-05-24
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Planescape: Torment, Part 1: From the Tabletop…** — ⭐ 27/30
+
+[Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) — **krebsonsecurity.com** · 05-22 16:34 · 🔒 安全
+
+> The article traces the evolution of Dungeons & Dragons from tabletop role-playing to computer games, focusing on the Infinity Engine titles. It explains how the Planescape campaign setting's philosophical and unconventional nature shaped the development of Planescape: Torment. The narrative highlights the game's emphasis on story and character over combat, a stark contrast to typical D&D adaptations. Key figures and design decisions from Black Isle Studios are examined, showing how they prioritized narrative depth. The author concludes that Planescape: Torment's success stemmed from embracing the tabletop's potential for existential exploration rather than replication of dungeon crawls.
+
+🏷️ CISA, data leak, AWS GovCloud, GitHub
+
+---
+
+🥈 **Microsoft's attempted merger with Intuit** — ⭐ 27/30
+
+[datasette-agent-sprites 0.1a0](https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything) — **simonwillison.net** · 05-21 18:21 · 🔒 安全
+
+> Before the Netscape obsession, Microsoft targeted Intuit, the maker of Quicken, which it could not beat with its clone Microsoft Money. On May 20, 1995, Microsoft attempted to acquire Intuit outright. The merger was blocked by regulators, marking a key antitrust moment in tech history. The article details Microsoft's failed strategy to dominate personal finance software through acquisition.
+
+🏷️ botnet, DDoS, IoT, security
+
+---
+
+🥉 **Microsoft Antitrust case of 1998** — ⭐ 27/30
+
+[Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything) — **simonwillison.net** · 05-19 22:40 · 🤖 AI / ML
+
+> On May 18, 1998, the U.S. Department of Justice filed an antitrust lawsuit against Microsoft, aiming to break up the company. The case was controversial at the time and remains so, with debates over its merits and impact. It centered on allegations of monopolistic practices, particularly tying Internet Explorer to Windows. The case ultimately led to a settlement but no breakup. The author argues the case is still controversial and significant for understanding tech antitrust history.
+
+🏷️ Gemini 3.5 Flash, Google, AI model
+
+---
+
+**4.** **Pythagorean Addition** — ⭐ 27/30
+
+[CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) — **krebsonsecurity.com** · 05-18 20:48 · 🔒 安全
+
+> Computing c = sqrt(a^2 + b^2) manually is tedious. The alpha-max plus beta-min algorithm provides a mental shortcut by estimating c_hat = max(a, 0.9a + 0.5b) with high accuracy. This approximation is useful for adding variances or calculating radii without a calculator. The algorithm yields results very close to the true Euclidean norm. It is a practical trick for quick mental math in technical contexts.
+
+🏷️ CISA, AWS, security breach, credentials
+
+---
+
+**5.** **Advantages and disadvantages of Windows 3.0** — ⭐ 26/30
+
+[StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce) — **brutecat.com** · 06-01 00:00 · 🔒 安全
+
+> Released on May 22, 1990, Windows 3.0 is widely considered Microsoft's first usable graphical operating environment. Its advantages included a vastly improved GUI, support for 386 enhanced mode enabling true preemptive multitasking, and better memory management (up to 16 MB). However, it still required MS-DOS underneath, had limited virtual memory (only via swap file), lacked built-in networking, and suffered from frequent crashes and stability issues. The article notes that while Windows 3.0 made PCs more accessible and spurred software development, its reliance on DOS and system limitations frustrated power users. The author's main takeaway is that Windows 3.0 was a commercial triumph that laid the groundwork for Windows 3.1 and eventual dominance, but was itself a imperfect stepping stone.
+
+🏷️ RCE, Google Cloud, security, vulnerability
+
+---
+
+**6.** **‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job’** — ⭐ 26/30
+
+[NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share) — **daringfireball.net** · 05-20 21:20 · 🤖 AI / ML
+
+> Pop singer-songwriter Brye reveals that her viral hit “Lemons” was produced entirely in GarageBand on a school-issued iPad, recorded with headphones during high school. She also wrote musicals for her school using the same iPad and GarageBand setup. Brye argues that professional-quality music creation does not require expensive studios or formal training. Her takeaway is that accessible tools and persistence are sufficient to build a successful music career.
+
+🏷️ Google Search, AI, Google I/O
+
+---
+
+**7.** **Let's meet up AFK** — ⭐ 26/30
+
+[What will better AI mean?](https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html) — **geohot.github.io** · 05-20 07:00 · 🤖 AI / ML
+
+> The author and his wife are planning a cross-Europe Interrail trip and want to meet up with RSS Club subscribers in person for drinks or meals. They previously had positive experiences meeting locals during travels and are seeking recommendations for cool bars and vegan-friendly restaurants. The post is exclusive to RSS subscribers and encourages offline connections within the online community. The main takeaway is a friendly invitation to turn digital relationships into real-world encounters.
+
+🏷️ AI, LLM, training, frontier labs
+
+---
+
+**8.** **datasette-llm 0.1a8** — ⭐ 26/30
+
+[AI Is Too Expensive](https://www.wheresyoured.at/ai-is-too-expensive/) — **wheresyoured.at** · 05-19 15:48 · 🤖 AI / ML
+
+> Version 0.1a8 of datasette-llm fixes a bug where the llm_prompt_context() hook did not fully collect chains of responses. This release addresses issue #7 on the GitHub repository. No other changes are noted. It is a minor patch release for the Datasette plugin that integrates LLM prompts.
+
+🏷️ AI, cost, economics, NVIDIA
+
+---
+
+**9.** **Moving away from Tailwind and learning to structure my CSS** — ⭐ 26/30
+
+[Notes on pretraining parallelisms and failed training runs.](https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms) — **dwarkesh.com** · 05-16 19:01 · 🤖 AI / ML
+
+> Julia Evans explains her decision to move away from Tailwind CSS after years of use, having learned to truly respect CSS as a technology. She argues that instead of dismissing CSS as hard, developers should invest in mastering it, noting that many past frustrations like centering have been solved in modern CSS. Her approach involves structuring CSS with intent, using features like Grid, Flexbox, and custom properties to achieve maintainable layouts. The conclusion is that a deeper understanding of CSS can reduce reliance on utility-first frameworks and lead to more elegant, self-authored styles.
+
+🏷️ pretraining, parallelism, training failures, LLM
+
+---
+
+**10.** **Premium: What If...We're In An AI Bubble? (Part 1)** — ⭐ 26/30
+
+[Premium: What If...We're In An AI Bubble? (Part 1)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/) — **wheresyoured.at** · 05-15 16:44 · 💡 观点 / 杂谈
+
+> The article challenges common extrapolations that today's AI models are steps toward AGI creating a permanent underclass. It argues that current models lack the capabilities for such transformative impact and that the hype is driven by flawed reasoning. The author contends that the AI industry is in a bubble fueled by overblown expectations. The main takeaway is that the narrative of imminent AGI and societal upheaval is misguided.
+
+🏷️ AI bubble, AGI, speculation
+
+---
+
+**11.** **Western Gull, Rock Pigeon** — ⭐ 26/30
+
+[DeepSeek-V4-Flash means LLM steering is interesting again](https://seangoedecke.com/steering-vectors/) — **seangoedecke.com** · 05-16 00:00 · 🤖 AI / ML
+
+> Simon Willison shares a personal bird sighting from a morning walk before PyCon in Los Angeles. He photographed a Western Gull and a Rock Pigeon, noting the gull was enjoying a Starbucks drink. The post is a brief naturalist observation with no technical analysis. It highlights a moment of urban wildlife interaction during a tech conference. The author's main takeaway is the simple pleasure of birdwatching before a busy event.
+
+🏷️ LLM steering, DeepSeek, activation engineering
+
+---
+
+**12.** **How to Talk to Your Coworkers** — ⭐ 25/30
+
+[News: OpenAI Had A Negative 122% Non-GAAP Operating Margin In Q1 2026, and ChatGPT Growth Has Stalled](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/) — **wheresyoured.at** · 05-22 14:21 · 🤖 AI / ML
+
+> The article addresses a common frustration among developers: coworkers repeatedly asking questions that seem already answered in documentation or tickets. The author argues that the issue is not laziness or stupidity but a mismatch in communication styles and context. Developers should recognize that written documentation may not be sufficient and that a brief verbal explanation can save time and build rapport. The key takeaway is to adapt communication to the audience's needs rather than blaming them for not reading.
+
+🏷️ OpenAI, financials, operating margin, ChatGPT
+
+---
+
+**13.** **Digital autonomy: what organizations can do NOW** — ⭐ 25/30
+
+[Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) — **simonwillison.net** · 05-21 19:52 · 💡 观点 / 杂谈
+
+> Growing concerns about digital autonomy prompt large organizations to ask what immediate actions they can take. The author notes that for 15 years, European organizations have offshored digital infrastructure to the US, creating a deep dependency that cannot be reversed quickly. The article offers a practical list of steps organizations can implement now to regain control. The core takeaway is that rebuilding digital autonomy requires sustained effort and cannot be achieved overnight.
+
+🏷️ digital autonomy, cloud, technology sovereignty, Europe
+
+---
+
+**14.** **Circular and hyperbolic functions differ by rotations** — ⭐ 25/30
+
+[RFC: Artificial Contributors to Open Source](https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html) — **nesbitt.io** · 05-21 10:00 · 💡 观点 / 杂谈
+
+> The relationship between circular and hyperbolic functions is elegantly captured by rotations in the complex plane. For example, cosh(z) = cos(iz), meaning the hyperbolic cosine of z is the cosine of z rotated by 90 degrees. Similarly, other identities like sinh(z) = -i sin(iz) show that hyperbolic functions are just circular functions with a quarter-turn rotation. This geometric interpretation unifies the two families of functions and simplifies understanding of their properties.
+
+🏷️ open source, RFC, contributors
+
+---
+
+**15.** **Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★** — ⭐ 25/30
+
+[Andrej Karpathy Joined Anthropic](https://x.com/karpathy/status/2056753169888334312) — **daringfireball.net** · 05-19 15:42 · 🤖 AI / ML
+
+> A review of Adrian Tchaikovsky's 'Terrible Worlds: Destinations,' a collection of three novellas about travel to different destinations like space, the future, and a Narnia-like world. The review highlights that beneath the surface, the stories are fundamentally about loneliness and the futility of running away. The reviewer gives a 5-star rating, praising the thematic depth and storytelling.
+
+🏷️ Anthropic, Andrej Karpathy, LLM, R&D
+
+---
+
+**16.** **Which age-gates should be skill-gates and vice-versa?** — ⭐ 24/30
+
+[Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/feeds/872292081485114047/comments/default) — **righto.com** · 05-23 16:17 · 🤖 AI / ML
+
+> Age-gates like the UK's minimum drinking age of 18 and voting ages are arbitrary, relying on birth year rather than competence. The article proposes replacing some with skill-gates—requiring demonstrated ability (e.g., a test to purchase alcohol). Conversely, skill-gates such as amateur radio license exams could be age-gates for low-risk activities. The author argues that current laws confuse age with competence and calls for a re-evaluation based on risk and required expertise. The conclusion is that society should separate true skill needs from simple age thresholds.
+
+🏷️ AI safety, doomer, scenario
+
+---
+
+**17.** **On the <dl>** — ⭐ 24/30
+
+[Weekly Update 505](https://www.troyhunt.com/weekly-update-505/) — **troyhunt.com** · 05-24 01:34 · 🔒 安全
+
+> The HTML <dl> element is more versatile than commonly assumed: a single <dt> can be followed by multiple <dd> elements, <dt> and <dd> can be grouped inside a <div> for styling (and only a <div>), and ARIA labels can be applied to terms and definitions. Ben Meyer's article exposes these lesser-known capabilities, showing <dl> as a semantic structure for name-value pairs with flexible grouping and accessibility. The takeaway is that developers should use <dl> more confidently for association lists.
+
+🏷️ data breach, ransomware, ShinyHunters, Instructure
+
+---
+
+**18.** **The memory shortage is causing a repricing of consumer electronics** — ⭐ 24/30
+
+[The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) — **simonwillison.net** · 05-22 22:01 · ⚙️ 工程
+
+> The global memory shortage, driven by fixed wafer capacity among only three remaining large manufacturers, is forcing a repricing of consumer electronics. Memory production cannot keep up with demand, leading to significant cost increases for devices like smartphones and computers. The author explains that this structural constraint means higher prices are likely to persist for years. Consumer electronics that rely on memory chips will become noticeably more expensive as a result.
+
+🏷️ memory shortage, consumer electronics, AI, pricing
+
+---
+
+**19.** **News about Raspberry Pi 6 and Microcontroller Development** — ⭐ 24/30
+
+[News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/) — **jeffgeerling.com** · 05-22 20:15 · ⚙️ 工程
+
+> Three lead Raspberry Pi engineers, including CEO Eben Upton, hosted an AMA on the r/engineering subreddit to discuss upcoming products. They revealed details about the Raspberry Pi 6, including its improved performance and new features, as well as ongoing microcontroller development. The engineers also answered community questions about supply chain and software support. The AMA confirmed that Raspberry Pi continues to invest heavily in both single-board computers and custom silicon.
+
+🏷️ Raspberry Pi 6, microcontroller, AMA, hardware
+
+---
+
+**20.** **Anthropic's "Profitability" Swindle** — ⭐ 24/30
+
+[Anthropic's "Profitability" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/) — **wheresyoured.at** · 05-21 17:08 · 🤖 AI / ML
+
+> The Wall Street Journal reported that Anthropic is about to have its first profitable quarter, specifically an operating profit (EBITDA). The article argues that this claim is misleading because it relies on a narrow definition of profitability that excludes significant costs like research and development. Anthropic's revenue is projected to more than double to $10.9 billion in Q2, but the company still faces massive losses when accounting for full expenses. The author contends that such selective reporting serves to inflate investor confidence and obscure the true financial health of AI companies. The main takeaway is that the narrative of AI profitability is a carefully constructed illusion designed to sustain hype and investment.
+
+🏷️ Anthropic, profitability, AI
+
+---
+
+**21.** **Kaypro II launched May 20, 1982** — ⭐ 24/30
+
+[WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’](https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev) — **daringfireball.net** · 05-21 01:05 · 🤖 AI / ML
+
+> On May 20, 1982, Kaypro shipped its Kaypro II, a portable computer running the CP/M operating system. Its key innovation was bundling a suite of popular software with the hardware and selling the entire package at a competitive price. This strategy drove strong sales and helped popularize portable computing in the early 1980s. The article concludes that software bundling was a pivotal factor in the Kaypro II's commercial success.
+
+🏷️ Gemini Spark, AI agent, personal assistant
+
+---
+
+**22.** **Alternatives for the EDIT tool of LLM agents** — ⭐ 24/30
+
+[Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166) — **antirez.com** · 05-19 07:26 · 🤖 AI / ML
+
+> The author is building an LLM agent for the DS4 project and finds the standard EDIT tool inefficient because it forces the model to output the entire old version before making a change, wasting tokens in token-poor local inference. He explores alternatives, noting that a CRC32-based compromise offers an interesting tradeoff between accuracy and token cost. The key takeaway is that optimizing the edit tool is essential for local inference agents with limited token budgets.
+
+🏷️ LLM, agent, EDIT tool, CRC32
+
+---
+
+**23.** **Ted Turner’s Small Apartment Above the Former CNN Center** — ⭐ 24/30
+
+[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) — **simonwillison.net** · 05-19 01:09 · 🤖 AI / ML
+
+> Ted Turner's personal apartment above the former CNN Center is simultaneously audacious and humble. The small living space contrasts with his larger-than-life personality and business empire. It echoes Walt Disney's apartment above the fire department at Disneyland. The apartment epitomizes Turner's unique blend of modesty and ambition. It offers a glimpse into the private life of a media mogul.
+
+🏷️ LLM, AI, PyCon, slides
+
+---
+
+**24.** **Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose** — ⭐ 24/30
+
+[Existing Stakeholders Have a Say in the Future](https://daringfireball.net/2026/05/ai_is_technology_not_a_product) — **daringfireball.net** · 05-18 16:47 · 🤖 AI / ML
+
+> This post documents a series of bird sightings with accompanying photographs. Species observed include Glaucous-winged Gull, Brown Pelican, Snowy Egret, and Canada Goose. Each image captures the bird in its natural habitat. The post serves as a visual record of local wildlife. It is a straightforward nature observation entry.
+
+🏷️ AI, product, Apple, strategy
+
+---
+
+**25.** **AI Data Centers Are Deeply Unpopular, Across the Political Spectrum** — ⭐ 24/30
+
+[AI Data Centers Are Deeply Unpopular, Across the Political Spectrum](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx) — **daringfireball.net** · 05-18 14:59 · 🤖 AI / ML
+
+> A Gallup poll reveals 71% of Americans oppose building AI data centers in their local area, with 48% strongly opposed and only 25% in favor. Opposition to AI data centers exceeds that for nuclear power plants (53% oppose). The strong, bipartisan resistance signals a major public relations and political challenge for the AI industry's infrastructure expansion. The author highlights this as a critical issue that tech companies and policymakers must address.
+
+🏷️ AI data center, public opinion, Gallup
+
+---
+
+**26.** **The Applicability of Spaced Repetition** — ⭐ 24/30
+
+[SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web) — **miguelgrinberg.com** · 05-16 13:35 · ⚙️ 工程
+
+> The article examines the limits of spaced repetition, arguing it is primarily effective for factual knowledge (e.g., vocabulary, dates) rather than conceptual understanding (e.g., mathematical proofs, creative writing). The author explains that spaced repetition relies on brute-force memorization of atomic facts, which fails to capture the relational and procedural nature of complex concepts. They propose using techniques like elaboration, interleaving, and active recall practice for conceptual learning, while reserving spaced repetition for foundational facts. The conclusion is that learners should match their study methods to the type of knowledge, not rely on a single tool for everything.
+
+🏷️ SQLAlchemy, web development, Python, ORM
+
+---
+
+**27.** **The mistake of conflating intelligence and power** — ⭐ 24/30
+
+[Santa Clara County Sues Meta Over Alleged Scam Ads](https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/) — **daringfireball.net** · 05-16 21:17 · 🔒 安全
+
+> Dwarkesh Patel critiques the common tendency to define intelligence as the ability to achieve goals across diverse domains, which would label historically powerful figures like Stalin as exceptionally intelligent. He argues that such a definition conflates power with intelligence, ignoring the role of circumstance, resources, and moral constraints. Patel emphasizes that intelligence should instead be measured by the quality of reasoning and adaptability, not by outcomes alone. The main takeaway is that equating power with intelligence leads to flawed analysis and dangerous admiration of ruthless leaders.
+
+🏷️ Meta, scam ads, lawsuit, fraud
+
+---
+
+**28.** **Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company** — ⭐ 24/30
+
+[Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company](https://www.wired.com/story/openai-reorg-greg-brockman-product/) — **daringfireball.net** · 05-16 01:37 · 🤖 AI / ML
+
+> OpenAI announced a reorganization where cofounder Greg Brockman will lead product strategy in addition to his AI infrastructure role, as reported by Wired. This move formalizes his interim oversight of products while Fidji Simo, CEO of AGI deployment, was on medical leave. The restructuring aims to unify product offerings. The conclusion is that OpenAI continues to adjust its leadership amid ongoing growth and challenges.
+
+🏷️ OpenAI, Greg Brockman, product strategy
+
+---
+
+**29.** **The 13 Biggest Announcements at Google I/O 2026** — ⭐ 23/30
+
+[The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0) — **daringfireball.net** · 05-21 01:47 · 🤖 AI / ML
+
+> Google I/O 2026 focused heavily on AI, unveiling the new Gemini 3.5 model family, enhanced Search and Gmail features, and updates to Project Aura smart glasses. The keynote was packed with AI-centric announcements across the product lineup. Key reveals included improvements to Gemini's reasoning and multimodal capabilities, along with deeper integration into Google's ecosystem. The Verge's roundup consolidates the 13 most significant announcements for those who missed the livestream. The article serves as a comprehensive catch-up on all major reveals from the event.
+
+🏷️ Google I/O, Gemini, AI agent, smart glasses
+
+---
+
+**30.** **llm-gemini 0.32** — ⭐ 23/30
+
+[llm-gemini 0.32](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything) — **simonwillison.net** · 05-19 23:46 · 🤖 AI / ML
+
+> llm-gemini 0.32 is released, adding support for the new gemini-3.5-flash model. The release is a minor version bump with a single new model entry. The author also provides separate notes on Gemini 3.5 Flash and the Gemini family of models. This release enables llm-gemini users to access the Gemini 3.5 Flash model.
+
+🏷️ Gemini, LLM, release
+
+---
+
+*Generated at 2026-05-24 09:14 | Scanned 29 daily digests · 467 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
