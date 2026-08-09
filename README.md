@@ -1,3 +1,5 @@
+
+
 # AI Daily Digest
 
 > 本项目参考 [vigorX777/ai-daily-digest](https://github.com/vigorX777/ai-daily-digest) 二次开发。
@@ -20,6 +22,7 @@ npx -y bun scripts/digest.ts --hours 48 --top-n 30 --lang zh --output ./digest.m
 | 参数 | 默认值 | 说明 |
 |------|--------|------|
 | `--hours <n>` | 48 | 文章时间窗口（小时） |
+| `--date <YYYY-MM-DD>` | — | 指定日期筛选文章（与 `--hours` 互斥） |
 | `--top-n <n>` | 15 | 精选文章数量 |
 | `--lang <zh\|en>` | zh | 输出语言 |
 | `--output <path>` | `./digest-YYYYMMDD.md` | 输出文件路径 |
