@@ -1,0 +1,248 @@
+# 📊 AI Blog Monthly Top 30 — 2026-09-15
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **The contagion of fear** — ⭐ 15/30
+
+[The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — **simonwillison.net** · 09-14 21:18 · 📝 其他
+
+> The contagion of fear
+
+---
+
+🥈 **What blog posts influenced your thinking the most?** — ⭐ 15/30
+
+[What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) — **simonwillison.net** · 09-14 20:21 · 📝 其他
+
+> What blog posts influenced your thinking the most?
+
+---
+
+🥉 **Quoting Laurie Voss** — ⭐ 15/30
+
+[Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/) — **simonwillison.net** · 09-14 14:34 · 📝 其他
+
+> Quoting Laurie Voss
+
+---
+
+**4.** **Tell agents the why, not just the how** — ⭐ 15/30
+
+[Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/) — **seangoedecke.com** · 09-15 00:00 · 📝 其他
+
+> Tell agents the why, not just the how
+
+---
+
+**5.** **Apple’s 27.0 OS Updates** — ⭐ 15/30
+
+[Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/) — **daringfireball.net** · 09-14 19:41 · 📝 其他
+
+> Apple’s 27.0 OS Updates
+
+---
+
+**6.** **Dumpster Fire – Litterbox-Inspired Extension for Firefox** — ⭐ 15/30
+
+[Dumpster Fire – Litterbox-Inspired Extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/) — **daringfireball.net** · 09-14 14:47 · 📝 其他
+
+> Dumpster Fire – Litterbox-Inspired Extension for Firefox
+
+---
+
+**7.** **XCancel Shuts Down Again** — ⭐ 15/30
+
+[XCancel Shuts Down Again](https://xcancel.com/) — **daringfireball.net** · 09-14 13:24 · 📝 其他
+
+> XCancel Shuts Down Again
+
+---
+
+**8.** **Pluralistic: Everybody pees (15 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/) — **pluralistic.net** · 09-15 07:27 · 📝 其他
+
+> Pluralistic: Everybody pees (15 Sep 2026)
+
+---
+
+**9.** **Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/) — **pluralistic.net** · 09-14 11:02 · 📝 其他
+
+> Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)
+
+---
+
+**10.** **Esoteric HTML - ismap vs CSS** — ⭐ 15/30
+
+[Esoteric HTML - ismap vs CSS](https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/) — **shkspr.mobi** · 09-14 11:34 · 📝 其他
+
+> Esoteric HTML - ismap vs CSS
+
+---
+
+**11.** **Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?** — ⭐ 15/30
+
+[Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?](https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696) — **devblogs.microsoft.com/oldnewthing** · 09-14 14:00 · 📝 其他
+
+> Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?
+
+---
+
+**12.** **Guessing the meaning of a number** — ⭐ 15/30
+
+[Guessing the meaning of a number](https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/) — **johndcook.com** · 09-14 10:44 · 📝 其他
+
+> Guessing the meaning of a number
+
+---
+
+**13.** **Shadowing the Standard Library** — ⭐ 15/30
+
+[Shadowing the Standard Library](https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html) — **nesbitt.io** · 09-15 09:00 · 📝 其他
+
+> Shadowing the Standard Library
+
+---
+
+**14.** **alt.time-capsule.reopened** — ⭐ 15/30
+
+[alt.time-capsule.reopened](https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website) — **tedium.co** · 09-15 02:58 · 📝 其他
+
+> alt.time-capsule.reopened
+
+---
+
+**15.** **AI Is Already In Dangerous Hands** — ⭐ 15/30
+
+[AI Is Already In Dangerous Hands](https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/) — **wheresyoured.at** · 09-14 16:23 · 📝 其他
+
+> AI Is Already In Dangerous Hands
+
+---
+
+**16.** **Diamond Rio PMP300** — ⭐ 15/30
+
+[Diamond Rio PMP300](https://dfarq.homeip.net/diamond-rio-pmp300/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=diamond-rio-pmp300) — **dfarq.homeip.net** · 09-15 11:00 · 📝 其他
+
+> Diamond Rio PMP300
+
+---
+
+**17.** **Osborne Computer’s bankruptcy and the Osborne Effect** — ⭐ 15/30
+
+[Osborne Computer’s bankruptcy and the Osborne Effect](https://dfarq.homeip.net/osborne-computers-bankruptcy-and-the-osborne-effect/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=osborne-computers-bankruptcy-and-the-osborne-effect) — **dfarq.homeip.net** · 09-14 11:00 · 📝 其他
+
+> Osborne Computer’s bankruptcy and the Osborne Effect
+
+---
+
+**18.** **Hoe wordt de overheid weer 'van de IT'?** — ⭐ 15/30
+
+[Hoe wordt de overheid weer 'van de IT'?](https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/) — **berthub.eu** · 09-14 12:45 · 📝 其他
+
+> Hoe wordt de overheid weer 'van de IT'?
+
+---
+
+**19.** **commit-rewriter 0.1** — ⭐ 15/30
+
+[commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/) — **simonwillison.net** · 09-14 00:28 · 📝 其他
+
+> commit-rewriter 0.1
+
+---
+
+**20.** **shot-scraper 1.12** — ⭐ 15/30
+
+[shot-scraper 1.12](https://simonwillison.net/2026/Sep/13/shot-scraper/) — **simonwillison.net** · 09-13 23:58 · 📝 其他
+
+> shot-scraper 1.12
+
+---
+
+**21.** **Slow developer experience will bottleneck fast models** — ⭐ 15/30
+
+[Slow developer experience will bottleneck fast models](https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/) — **seangoedecke.com** · 09-14 00:00 · 📝 其他
+
+> Slow developer experience will bottleneck fast models
+
+---
+
+**22.** **Glyphs 4** — ⭐ 15/30
+
+[Glyphs 4](https://glyphsapp.com/) — **daringfireball.net** · 09-13 21:44 · 📝 其他
+
+> Glyphs 4
+
+---
+
+**23.** **AI Forces You to Commit to Your Initial Belief** — ⭐ 15/30
+
+[AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence) — **idiallo.com** · 09-13 20:00 · 📝 其他
+
+> AI Forces You to Commit to Your Initial Belief
+
+---
+
+**24.** **Preserving Netlify Analytics Data Beyond 30 Days** — ⭐ 15/30
+
+[Preserving Netlify Analytics Data Beyond 30 Days](https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/) — **blog.jim-nielsen.com** · 09-13 19:00 · 📝 其他
+
+> Preserving Netlify Analytics Data Beyond 30 Days
+
+---
+
+**25.** **The spy in your living room** — ⭐ 15/30
+
+[The spy in your living room](https://dfarq.homeip.net/the-spy-in-your-living-room/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-spy-in-your-living-room) — **dfarq.homeip.net** · 09-13 16:08 · 📝 其他
+
+> The spy in your living room
+
+---
+
+**26.** **Fixing an NZXT Signal 4K30 part 2: the green/pink video bug** — ⭐ 15/30
+
+[Fixing an NZXT Signal 4K30 part 2: the green/pink video bug](https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/) — **downtowndougbrown.com** · 09-13 21:02 · 📝 其他
+
+> Fixing an NZXT Signal 4K30 part 2: the green/pink video bug
+
+---
+
+**27.** **Generating running routes with GPT-6 Astra and ChatGPT Work** — ⭐ 15/30
+
+[Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/) — **simonwillison.net** · 09-12 23:56 · 📝 其他
+
+> Generating running routes with GPT-6 Astra and ChatGPT Work
+
+---
+
+**28.** **California Brown Pelican** — ⭐ 15/30
+
+[California Brown Pelican](https://simonwillison.net/2026/Sep/12/sighting-399708714/) — **simonwillison.net** · 09-12 21:16 · 📝 其他
+
+> California Brown Pelican
+
+---
+
+**29.** **Quoting Paul Ford** — ⭐ 15/30
+
+[Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/) — **simonwillison.net** · 09-12 18:00 · 📝 其他
+
+> Quoting Paul Ford
+
+---
+
+**30.** **AI is breaking our proxies for expertise** — ⭐ 15/30
+
+[AI is breaking our proxies for expertise](https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/) — **seangoedecke.com** · 09-13 00:00 · 📝 其他
+
+> AI is breaking our proxies for expertise
+
+---
+
+*Generated at 2026-09-15 12:21 | Scanned 30 daily digests · 452 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
