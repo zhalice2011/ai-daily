@@ -1,0 +1,258 @@
+# 📊 AI Blog Monthly Top 30 — 2026-09-17
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Data Broker Radaris Loses Domains in Privacy Fight** — ⭐ 23/30
+
+[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 09-16 18:14 · 🔒 安全
+
+> Data Broker Radaris Loses Domains in Privacy Fight
+
+🏷️ data broker, privacy, lawsuit
+
+---
+
+🥈 **datasette 0.65.5** — ⭐ 20/30
+
+[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 09-16 23:51 · 💡 观点 / 杂谈
+
+> datasette 0.65.5
+
+🏷️ AI, fascism, sincerity
+
+---
+
+🥉 **Claude Cowork and chat are now one Claude** — ⭐ 20/30
+
+[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 09-16 18:09 · 💡 观点 / 杂谈
+
+> Claude Cowork and chat are now one Claude
+
+🏷️ AI, moratorium, competition
+
+---
+
+**4.** **Quoting Mustafa Suleyman** — ⭐ 20/30
+
+[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 09-16 16:00 · 🤖 AI / ML
+
+> Quoting Mustafa Suleyman
+
+🏷️ AI ethics, model welfare, consciousness
+
+---
+
+**5.** **Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps** — ⭐ 20/30
+
+[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 09-16 22:40 · 🛠 工具 / 开源
+
+> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+
+🏷️ Xcode, iOS, Duo
+
+---
+
+**6.** **Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?** — ⭐ 15/30
+
+[Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?](https://x.com/DEADLINE/status/2099645816361332775) — **daringfireball.net** · 09-16 22:21 · 📝 其他
+
+> Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?
+
+---
+
+**7.** **Woz Launches Merch Store** — ⭐ 15/30
+
+[Woz Launches Merch Store](https://x.com/stevewoz/status/2100074363605397658) — **daringfireball.net** · 09-16 21:38 · 📝 其他
+
+> Woz Launches Merch Store
+
+---
+
+**8.** **Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork** — ⭐ 15/30
+
+[Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/) — **daringfireball.net** · 09-16 18:36 · 📝 其他
+
+> Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork
+
+---
+
+**9.** **AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically** — ⭐ 15/30
+
+[AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically](https://www.apple.com/airpods-5/specs/) — **daringfireball.net** · 09-16 14:35 · 📝 其他
+
+> AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically
+
+---
+
+**10.** **Pluralistic: On the sincerity of AI bosses (17 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: On the sincerity of AI bosses (17 Sep 2026)](https://pluralistic.net/2026/09/17/porque-no-los-dos/) — **pluralistic.net** · 09-17 07:35 · 📝 其他
+
+> Pluralistic: On the sincerity of AI bosses (17 Sep 2026)
+
+---
+
+**11.** **Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)](https://pluralistic.net/2026/09/16/beggar-thy-neighbor/) — **pluralistic.net** · 09-16 07:52 · 📝 其他
+
+> Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)
+
+---
+
+**12.** **How to get a DOI for your blog posts** — ⭐ 15/30
+
+[How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/) — **shkspr.mobi** · 09-16 11:34 · 📝 其他
+
+> How to get a DOI for your blog posts
+
+---
+
+**13.** **Converting between cosine similarity and concentration ratio** — ⭐ 15/30
+
+[Converting between cosine similarity and concentration ratio](https://www.johndcook.com/blog/2026/09/16/concentration-ratio/) — **johndcook.com** · 09-16 16:05 · 📝 其他
+
+> Converting between cosine similarity and concentration ratio
+
+---
+
+**14.** **Coffee + milk ≠ latte** — ⭐ 15/30
+
+[Coffee + milk ≠ latte](https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/) — **johndcook.com** · 09-16 15:06 · 📝 其他
+
+> Coffee + milk ≠ latte
+
+---
+
+**15.** **Fibonacci product** — ⭐ 15/30
+
+[Fibonacci product](https://www.johndcook.com/blog/2026/09/16/fibonacci-product/) — **johndcook.com** · 09-16 12:04 · 📝 其他
+
+> Fibonacci product
+
+---
+
+**16.** **Flock cameras are riddled with security vulnerabilities and hard-coded credentials** — ⭐ 15/30
+
+[Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) — **micahflee.com** · 09-16 20:48 · 📝 其他
+
+> Flock cameras are riddled with security vulnerabilities and hard-coded credentials
+
+---
+
+**17.** **Good Morning, Your Toaster Is Compromised** — ⭐ 15/30
+
+[Good Morning, Your Toaster Is Compromised](https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html) — **nesbitt.io** · 09-17 09:00 · 📝 其他
+
+> Good Morning, Your Toaster Is Compromised
+
+---
+
+**18.** **The LLMs yearn for the spines** — ⭐ 15/30
+
+[The LLMs yearn for the spines](https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/) — **buttondown.com/hillelwayne** · 09-16 19:58 · 📝 其他
+
+> The LLMs yearn for the spines
+
+---
+
+**19.** **The 6502 CPU’s odd debut** — ⭐ 15/30
+
+[The 6502 CPU’s odd debut](https://dfarq.homeip.net/the-6502-cpus-odd-debut/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-6502-cpus-odd-debut) — **dfarq.homeip.net** · 09-16 11:00 · 📝 其他
+
+> The 6502 CPU’s odd debut
+
+---
+
+**20.** **Gemini Live audio** — ⭐ 15/30
+
+[Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/) — **simonwillison.net** · 09-15 22:47 · 📝 其他
+
+> Gemini Live audio
+
+---
+
+**21.** **Jev means structured output is interesting again** — ⭐ 15/30
+
+[Jev means structured output is interesting again](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/) — **seangoedecke.com** · 09-16 00:00 · 📝 其他
+
+> Jev means structured output is interesting again
+
+---
+
+**22.** **‘Apple Reference Image: A New Approach for Verified Photography’** — ⭐ 15/30
+
+[‘Apple Reference Image: A New Approach for Verified Photography’](https://security.apple.com/blog/apple-reference-image/) — **daringfireball.net** · 09-16 02:38 · 📝 其他
+
+> ‘Apple Reference Image: A New Approach for Verified Photography’
+
+---
+
+**23.** **FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’** — ⭐ 15/30
+
+[FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’](https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1) — **daringfireball.net** · 09-15 19:01 · 📝 其他
+
+> FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’
+
+---
+
+**24.** **★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple** — ⭐ 15/30
+
+[★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple](https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event) — **daringfireball.net** · 09-15 17:54 · 📝 其他
+
+> ★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple
+
+---
+
+**25.** **Pluralistic: Everybody pees (15 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/) — **pluralistic.net** · 09-15 07:27 · 📝 其他
+
+> Pluralistic: Everybody pees (15 Sep 2026)
+
+---
+
+**26.** **Simple approximation for spherical cap area** — ⭐ 15/30
+
+[Simple approximation for spherical cap area](https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/) — **johndcook.com** · 09-15 22:00 · 📝 其他
+
+> Simple approximation for spherical cap area
+
+---
+
+**27.** **What counts as a large cosine similarity?** — ⭐ 15/30
+
+[What counts as a large cosine similarity?](https://www.johndcook.com/blog/2026/09/15/cosine-similarity/) — **johndcook.com** · 09-15 16:06 · 📝 其他
+
+> What counts as a large cosine similarity?
+
+---
+
+**28.** **Shadowing the Standard Library** — ⭐ 15/30
+
+[Shadowing the Standard Library](https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html) — **nesbitt.io** · 09-15 09:00 · 📝 其他
+
+> Shadowing the Standard Library
+
+---
+
+**29.** **Bottlenecks Get a Bad Rap** — ⭐ 15/30
+
+[Bottlenecks Get a Bad Rap](https://blog.jim-nielsen.com/2026/bottlenecks/) — **blog.jim-nielsen.com** · 09-15 19:00 · 📝 其他
+
+> Bottlenecks Get a Bad Rap
+
+---
+
+**30.** **Diamond Rio PMP300** — ⭐ 15/30
+
+[Diamond Rio PMP300](https://dfarq.homeip.net/diamond-rio-pmp300/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=diamond-rio-pmp300) — **dfarq.homeip.net** · 09-15 11:00 · 📝 其他
+
+> Diamond Rio PMP300
+
+---
+
+*Generated at 2026-09-17 12:18 | Scanned 30 daily digests · 460 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
