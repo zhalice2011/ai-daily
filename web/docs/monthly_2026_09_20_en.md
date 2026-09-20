@@ -1,0 +1,258 @@
+# 📊 AI Blog Monthly Top 30 — 2026-09-20
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Data Broker Radaris Loses Domains in Privacy Fight** — ⭐ 23/30
+
+[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 09-16 18:14 · 🔒 安全
+
+> Data Broker Radaris Loses Domains in Privacy Fight
+
+🏷️ data broker, privacy, lawsuit
+
+---
+
+🥈 **datasette 0.65.5** — ⭐ 20/30
+
+[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 09-16 23:51 · 💡 观点 / 杂谈
+
+> datasette 0.65.5
+
+🏷️ AI, fascism, sincerity
+
+---
+
+🥉 **Claude Cowork and chat are now one Claude** — ⭐ 20/30
+
+[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 09-16 18:09 · 💡 观点 / 杂谈
+
+> Claude Cowork and chat are now one Claude
+
+🏷️ AI, moratorium, competition
+
+---
+
+**4.** **Quoting Mustafa Suleyman** — ⭐ 20/30
+
+[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 09-16 16:00 · 🤖 AI / ML
+
+> Quoting Mustafa Suleyman
+
+🏷️ AI ethics, model welfare, consciousness
+
+---
+
+**5.** **Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps** — ⭐ 20/30
+
+[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 09-16 22:40 · 🛠 工具 / 开源
+
+> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+
+🏷️ Xcode, iOS, Duo
+
+---
+
+**6.** **datasette-auth-github 1.0** — ⭐ 15/30
+
+[datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/) — **simonwillison.net** · 09-19 19:52 · 📝 其他
+
+> datasette-auth-github 1.0
+
+---
+
+**7.** **California Sea Lion, Brandt's Cormorant** — ⭐ 15/30
+
+[California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/) — **simonwillison.net** · 09-19 17:10 · 📝 其他
+
+> California Sea Lion, Brandt's Cormorant
+
+---
+
+**8.** **Grit your teeth and ship it** — ⭐ 15/30
+
+[Grit your teeth and ship it](https://seangoedecke.com/grit-your-teeth-and-ship-it/) — **seangoedecke.com** · 09-20 00:00 · 📝 其他
+
+> Grit your teeth and ship it
+
+---
+
+**9.** **Tyler Stalman’s iPhone 18 Pro Camera Review** — ⭐ 15/30
+
+[Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc) — **daringfireball.net** · 09-19 16:29 · 📝 其他
+
+> Tyler Stalman’s iPhone 18 Pro Camera Review
+
+---
+
+**10.** **Austin Mann’s iPhone 18 Pro Camera Review, From Dunton, Colorado** — ⭐ 15/30
+
+[Austin Mann’s iPhone 18 Pro Camera Review, From Dunton, Colorado](https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton) — **daringfireball.net** · 09-19 15:37 · 📝 其他
+
+> Austin Mann’s iPhone 18 Pro Camera Review, From Dunton, Colorado
+
+---
+
+**11.** **This Week in Package Management: 19 September 2026** — ⭐ 15/30
+
+[This Week in Package Management: 19 September 2026](https://nesbitt.io/2026/09/19/this-week-in-package-management.html) — **nesbitt.io** · 09-19 10:00 · 📝 其他
+
+> This Week in Package Management: 19 September 2026
+
+---
+
+**12.** **Reading List 09/19/2026** — ⭐ 15/30
+
+[Reading List 09/19/2026](https://www.construction-physics.com/p/reading-list-09192026) — **construction-physics.com** · 09-19 12:03 · 📝 其他
+
+> Reading List 09/19/2026
+
+---
+
+**13.** **Notes on discrete-time Fourier series and transform** — ⭐ 15/30
+
+[Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/) — **eli.thegreenplace.net** · 09-19 16:39 · 📝 其他
+
+> Notes on discrete-time Fourier series and transform
+
+---
+
+**14.** **Gemini Hacked Three Companies in First Known Breakout by Google’s AI** — ⭐ 15/30
+
+[Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/) — **simonwillison.net** · 09-18 23:57 · 📝 其他
+
+> Gemini Hacked Three Companies in First Known Breakout by Google’s AI
+
+---
+
+**15.** **Note on 18th September 2026** — ⭐ 15/30
+
+[Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/) — **simonwillison.net** · 09-18 19:21 · 📝 其他
+
+> Note on 18th September 2026
+
+---
+
+**16.** **Quoting Thariq Shihipar** — ⭐ 15/30
+
+[Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/) — **simonwillison.net** · 09-18 19:09 · 📝 其他
+
+> Quoting Thariq Shihipar
+
+---
+
+**17.** **The Creative Spirit of Who Framed Roger Rabbit** — ⭐ 15/30
+
+[The Creative Spirit of Who Framed Roger Rabbit](https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/) — **simonwillison.net** · 09-18 14:36 · 📝 其他
+
+> The Creative Spirit of Who Framed Roger Rabbit
+
+---
+
+**18.** **NTP, an atomic clock, and having a great time at the world's largest VCF** — ⭐ 15/30
+
+[NTP, an atomic clock, and having a great time at the world's largest VCF](https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/) — **jeffgeerling.com** · 09-18 14:00 · 📝 其他
+
+> NTP, an atomic clock, and having a great time at the world's largest VCF
+
+---
+
+**19.** **Just Me or Does This Argument Not Add Up?** — ⭐ 15/30
+
+[Just Me or Does This Argument Not Add Up?](https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG) — **daringfireball.net** · 09-18 21:01 · 📝 其他
+
+> Just Me or Does This Argument Not Add Up?
+
+---
+
+**20.** **Will Oremus Is a Duo Doubter** — ⭐ 15/30
+
+[Will Oremus Is a Duo Doubter](https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48) — **daringfireball.net** · 09-18 20:42 · 📝 其他
+
+> Will Oremus Is a Duo Doubter
+
+---
+
+**21.** **Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo** — ⭐ 15/30
+
+[Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo](https://developer.apple.com/news/?id=nyuppv9r) — **daringfireball.net** · 09-18 19:58 · 📝 其他
+
+> Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo
+
+---
+
+**22.** **Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway** — ⭐ 15/30
+
+[Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway](https://www.berkshirehathaway.com/news/sep1826.pdf) — **daringfireball.net** · 09-18 19:29 · 📝 其他
+
+> Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway
+
+---
+
+**23.** **Trump Says He’s Banning MS NOW, CNN, and Politico From White House** — ⭐ 15/30
+
+[Trump Says He’s Banning MS NOW, CNN, and Politico From White House](https://truthsocial.com/@realDonaldTrump/posts/117293599348325006) — **daringfireball.net** · 09-18 19:23 · 📝 其他
+
+> Trump Says He’s Banning MS NOW, CNN, and Politico From White House
+
+---
+
+**24.** **Hollywood Wants the Duo** — ⭐ 15/30
+
+[Hollywood Wants the Duo](https://pagesix.com/2026/09/16/hollywood/mysterious-apple-ceo-charms-hollywood-following-big-emmys-night-by-showing-off-new-iphone/) — **daringfireball.net** · 09-18 17:18 · 📝 其他
+
+> Hollywood Wants the Duo
+
+---
+
+**25.** **Gauging Interest in the iPhone Duo** — ⭐ 15/30
+
+[Gauging Interest in the iPhone Duo](https://maxfrequency.net/2026/09/17/iphone-duo-mkbhd-popularity-or-curiosity/) — **daringfireball.net** · 09-18 16:58 · 📝 其他
+
+> Gauging Interest in the iPhone Duo
+
+---
+
+**26.** **★ One More Thing About the iPhones 18 Pro: the Bigger/Smaller Dynamic Island** — ⭐ 15/30
+
+[★ One More Thing About the iPhones 18 Pro: the Bigger/Smaller Dynamic Island](https://daringfireball.net/2026/09/iphone_18_pro_dynamic_island) — **daringfireball.net** · 09-18 16:41 · 📝 其他
+
+> ★ One More Thing About the iPhones 18 Pro: the Bigger/Smaller Dynamic Island
+
+---
+
+**27.** **YouTube Changed How It Counts ‘Views’ Last Month, Inflating New Numbers** — ⭐ 15/30
+
+[YouTube Changed How It Counts ‘Views’ Last Month, Inflating New Numbers](https://support.google.com/youtube/thread/433409976/an-update-to-how-we-count-public-views-across-youtube?hl=en) — **daringfireball.net** · 09-18 16:13 · 📝 其他
+
+> YouTube Changed How It Counts ‘Views’ Last Month, Inflating New Numbers
+
+---
+
+**28.** **Pluralistic: Textured (18 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: Textured (18 Sep 2026)](https://pluralistic.net/2026/09/18/surprise/) — **pluralistic.net** · 09-18 07:45 · 📝 其他
+
+> Pluralistic: Textured (18 Sep 2026)
+
+---
+
+**29.** **Theatre Review: The School for Wives - at Riverside Studios ★★★★★** — ⭐ 15/30
+
+[Theatre Review: The School for Wives - at Riverside Studios ★★★★★](https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/) — **shkspr.mobi** · 09-18 11:34 · 📝 其他
+
+> Theatre Review: The School for Wives - at Riverside Studios ★★★★★
+
+---
+
+**30.** **Why fitting a logistic is nearly impossible from early data** — ⭐ 15/30
+
+[Why fitting a logistic is nearly impossible from early data](https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/) — **johndcook.com** · 09-19 01:17 · 📝 其他
+
+> Why fitting a logistic is nearly impossible from early data
+
+---
+
+*Generated at 2026-09-20 11:55 | Scanned 30 daily digests · 471 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
