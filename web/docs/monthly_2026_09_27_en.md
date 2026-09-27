@@ -1,0 +1,258 @@
+# 📊 AI Blog Monthly Top 30 — 2026-09-27
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Data Broker Radaris Loses Domains in Privacy Fight** — ⭐ 23/30
+
+[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 09-16 18:14 · 🔒 安全
+
+> Data Broker Radaris Loses Domains in Privacy Fight
+
+🏷️ data broker, privacy, lawsuit
+
+---
+
+🥈 **Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps** — ⭐ 20/30
+
+[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 09-16 22:40 · 🛠 工具 / 开源
+
+> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+
+🏷️ Xcode, iOS, Duo
+
+---
+
+🥉 **datasette 0.65.5** — ⭐ 20/30
+
+[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 09-16 23:51 · 💡 观点 / 杂谈
+
+> datasette 0.65.5
+
+🏷️ AI, fascism, sincerity
+
+---
+
+**4.** **Claude Cowork and chat are now one Claude** — ⭐ 20/30
+
+[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 09-16 18:09 · 💡 观点 / 杂谈
+
+> Claude Cowork and chat are now one Claude
+
+🏷️ AI, moratorium, competition
+
+---
+
+**5.** **Quoting Mustafa Suleyman** — ⭐ 20/30
+
+[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 09-16 16:00 · 🤖 AI / ML
+
+> Quoting Mustafa Suleyman
+
+🏷️ AI ethics, model welfare, consciousness
+
+---
+
+**6.** **Kākāpō Party** — ⭐ 15/30
+
+[Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) — **simonwillison.net** · 09-26 23:39 · 📝 其他
+
+> Kākāpō Party
+
+---
+
+**7.** **Human-AI partnerships are for alignment, not capability** — ⭐ 15/30
+
+[Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) — **seangoedecke.com** · 09-27 00:00 · 📝 其他
+
+> Human-AI partnerships are for alignment, not capability
+
+---
+
+**8.** **Reelizer Returns** — ⭐ 15/30
+
+[Reelizer Returns](https://www.reelizer.com/) — **daringfireball.net** · 09-26 21:08 · 📝 其他
+
+> Reelizer Returns
+
+---
+
+**9.** **Alexandr Wang: ‘Why I’m Building Muse’** — ⭐ 15/30
+
+[Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951) — **daringfireball.net** · 09-26 20:34 · 📝 其他
+
+> Alexandr Wang: ‘Why I’m Building Muse’
+
+---
+
+**10.** **Apple’s Other Recent ‘Duo’** — ⭐ 15/30
+
+[Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812) — **daringfireball.net** · 09-26 19:41 · 📝 其他
+
+> Apple’s Other Recent ‘Duo’
+
+---
+
+**11.** **International Standard Paper Sizes** — ⭐ 15/30
+
+[International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) — **daringfireball.net** · 09-26 18:46 · 📝 其他
+
+> International Standard Paper Sizes
+
+---
+
+**12.** **Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed** — ⭐ 15/30
+
+[Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) — **daringfireball.net** · 09-26 16:53 · 📝 其他
+
+> Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed
+
+---
+
+**13.** **The Talk Show: ‘I’m Thinking X, Not X’** — ⭐ 15/30
+
+[The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455) — **daringfireball.net** · 09-26 16:21 · 📝 其他
+
+> The Talk Show: ‘I’m Thinking X, Not X’
+
+---
+
+**14.** **No errors, no warnings, no gods, no masters - HTML Purity is a Fetish** — ⭐ 15/30
+
+[No errors, no warnings, no gods, no masters - HTML Purity is a Fetish](https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/) — **shkspr.mobi** · 09-26 11:34 · 📝 其他
+
+> No errors, no warnings, no gods, no masters - HTML Purity is a Fetish
+
+---
+
+**15.** **Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC** — ⭐ 15/30
+
+[Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/feeds/7735201633324934284/comments/default) — **righto.com** · 09-26 16:20 · 📝 其他
+
+> Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC
+
+---
+
+**16.** **This Week in Package Management: 26 September 2026** — ⭐ 15/30
+
+[This Week in Package Management: 26 September 2026](https://nesbitt.io/2026/09/26/this-week-in-package-management.html) — **nesbitt.io** · 09-26 10:00 · 📝 其他
+
+> This Week in Package Management: 26 September 2026
+
+---
+
+**17.** **Reading List 2026-09-26** — ⭐ 15/30
+
+[Reading List 2026-09-26](https://www.construction-physics.com/p/reading-list-2026-09-26) — **construction-physics.com** · 09-26 10:17 · 📝 其他
+
+> Reading List 2026-09-26
+
+---
+
+**18.** **Rusty thoughts on "Parse, don't validate"** — ⭐ 15/30
+
+[Rusty thoughts on "Parse, don't validate"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/) — **eli.thegreenplace.net** · 09-26 15:25 · 📝 其他
+
+> Rusty thoughts on "Parse, don't validate"
+
+---
+
+**19.** **Quoting John Gruber** — ⭐ 15/30
+
+[Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/) — **simonwillison.net** · 09-25 17:22 · 📝 其他
+
+> Quoting John Gruber
+
+---
+
+**20.** **I'm starting HomelabFest (in St. Louis, Sep 2027)** — ⭐ 15/30
+
+[I'm starting HomelabFest (in St. Louis, Sep 2027)](https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/) — **jeffgeerling.com** · 09-25 15:16 · 📝 其他
+
+> I'm starting HomelabFest (in St. Louis, Sep 2027)
+
+---
+
+**21.** **Advice to a beginning software engineer** — ⭐ 15/30
+
+[Advice to a beginning software engineer](https://seangoedecke.com/advice-to-a-beginning-software-engineer/) — **seangoedecke.com** · 09-26 00:00 · 📝 其他
+
+> Advice to a beginning software engineer
+
+---
+
+**22.** **U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions** — ⭐ 15/30
+
+[U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/) — **krebsonsecurity.com** · 09-25 21:44 · 📝 其他
+
+> U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions
+
+---
+
+**23.** **Mr. Choyka Is Apparently Doing Well** — ⭐ 15/30
+
+[Mr. Choyka Is Apparently Doing Well](https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/) — **daringfireball.net** · 09-25 23:50 · 📝 其他
+
+> Mr. Choyka Is Apparently Doing Well
+
+---
+
+**24.** **Stock UI in MacOS 27 Eschews Clarity** — ⭐ 15/30
+
+[Stock UI in MacOS 27 Eschews Clarity](https://mastodon.design/@thibault/117320401426286497) — **daringfireball.net** · 09-25 20:54 · 📝 其他
+
+> Stock UI in MacOS 27 Eschews Clarity
+
+---
+
+**25.** **Brent Simmons on ‘Stock’ Mac UI** — ⭐ 15/30
+
+[Brent Simmons on ‘Stock’ Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html) — **daringfireball.net** · 09-25 19:45 · 📝 其他
+
+> Brent Simmons on ‘Stock’ Mac UI
+
+---
+
+**26.** **★ I’ll Wait** — ⭐ 15/30
+
+[★ I’ll Wait](https://daringfireball.net/2026/09/ill_wait) — **daringfireball.net** · 09-25 18:16 · 📝 其他
+
+> ★ I’ll Wait
+
+---
+
+**27.** **Regarding the Provenance of Charm Within Meta** — ⭐ 15/30
+
+[Regarding the Provenance of Charm Within Meta](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&amp;leadSource=article-gifting) — **daringfireball.net** · 09-25 17:07 · 📝 其他
+
+> Regarding the Provenance of Charm Within Meta
+
+---
+
+**28.** **Muse Looks Cute, but Looks Are Deceiving** — ⭐ 15/30
+
+[Muse Looks Cute, but Looks Are Deceiving](https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363) — **daringfireball.net** · 09-25 16:38 · 📝 其他
+
+> Muse Looks Cute, but Looks Are Deceiving
+
+---
+
+**29.** **I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse** — ⭐ 15/30
+
+[I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse](https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU) — **daringfireball.net** · 09-25 14:41 · 📝 其他
+
+> I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse
+
+---
+
+**30.** **Pluralistic: Itch scratching (25 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: Itch scratching (25 Sep 2026)](https://pluralistic.net/2026/09/25/other-people/) — **pluralistic.net** · 09-25 18:56 · 📝 其他
+
+> Pluralistic: Itch scratching (25 Sep 2026)
+
+---
+
+*Generated at 2026-09-27 12:35 | Scanned 30 daily digests · 478 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
