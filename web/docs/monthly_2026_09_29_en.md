@@ -1,0 +1,258 @@
+# 📊 AI Blog Monthly Top 30 — 2026-09-29
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Data Broker Radaris Loses Domains in Privacy Fight** — ⭐ 23/30
+
+[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 09-16 18:14 · 🔒 安全
+
+> Data Broker Radaris Loses Domains in Privacy Fight
+
+🏷️ data broker, privacy, lawsuit
+
+---
+
+🥈 **Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps** — ⭐ 20/30
+
+[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 09-16 22:40 · 🛠 工具 / 开源
+
+> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+
+🏷️ Xcode, iOS, Duo
+
+---
+
+🥉 **datasette 0.65.5** — ⭐ 20/30
+
+[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 09-16 23:51 · 💡 观点 / 杂谈
+
+> datasette 0.65.5
+
+🏷️ AI, fascism, sincerity
+
+---
+
+**4.** **Claude Cowork and chat are now one Claude** — ⭐ 20/30
+
+[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 09-16 18:09 · 💡 观点 / 杂谈
+
+> Claude Cowork and chat are now one Claude
+
+🏷️ AI, moratorium, competition
+
+---
+
+**5.** **Quoting Mustafa Suleyman** — ⭐ 20/30
+
+[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 09-16 16:00 · 🤖 AI / ML
+
+> Quoting Mustafa Suleyman
+
+🏷️ AI ethics, model welfare, consciousness
+
+---
+
+**6.** **Claude Sonnet 5.5** — ⭐ 15/30
+
+[Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/) — **simonwillison.net** · 09-28 22:07 · 📝 其他
+
+> Claude Sonnet 5.5
+
+---
+
+**7.** **Quoting @joedaroo** — ⭐ 15/30
+
+[Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/) — **simonwillison.net** · 09-28 19:11 · 📝 其他
+
+> Quoting @joedaroo
+
+---
+
+**8.** **Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation** — ⭐ 15/30
+
+[Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/) — **krebsonsecurity.com** · 09-28 15:08 · 📝 其他
+
+> Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
+
+---
+
+**9.** **Bastardica** — ⭐ 15/30
+
+[Bastardica](https://bastardica.mitpit.com/) — **daringfireball.net** · 09-29 02:15 · 📝 其他
+
+> Bastardica
+
+---
+
+**10.** **‘When Did Google Get So F-Ing Weird?’** — ⭐ 15/30
+
+[‘When Did Google Get So F-Ing Weird?’](https://sancho.bearblog.dev/google-weird/) — **daringfireball.net** · 09-29 01:51 · 📝 其他
+
+> ‘When Did Google Get So F-Ing Weird?’
+
+---
+
+**11.** **Joanna Stern Pokes the Pickle** — ⭐ 15/30
+
+[Joanna Stern Pokes the Pickle](https://www.youtube.com/watch?v=YNqYEMuoQAI) — **daringfireball.net** · 09-29 01:42 · 📝 其他
+
+> Joanna Stern Pokes the Pickle
+
+---
+
+**12.** **‘Daniel Decodes’ Interview Craig Federighi Regarding the iPhone Duo** — ⭐ 15/30
+
+[‘Daniel Decodes’ Interview Craig Federighi Regarding the iPhone Duo](https://www.youtube.com/watch?v=y227RF0smAg) — **daringfireball.net** · 09-29 01:10 · 📝 其他
+
+> ‘Daniel Decodes’ Interview Craig Federighi Regarding the iPhone Duo
+
+---
+
+**13.** **Why Stolen Device Protection Makes Passwords Safer** — ⭐ 15/30
+
+[Why Stolen Device Protection Makes Passwords Safer](https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/) — **daringfireball.net** · 09-29 00:43 · 📝 其他
+
+> Why Stolen Device Protection Makes Passwords Safer
+
+---
+
+**14.** **Jeremy Stern’s Profile of Mark Zuckerberg for Colossus** — ⭐ 15/30
+
+[Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](https://colossus.com/article/mark-zuckerberg-profile/) — **daringfireball.net** · 09-28 22:41 · 📝 其他
+
+> Jeremy Stern’s Profile of Mark Zuckerberg for Colossus
+
+---
+
+**15.** **Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store** — ⭐ 15/30
+
+[Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](https://lapcatsoftware.com/articles/2026/9/8.html) — **daringfireball.net** · 09-28 19:50 · 📝 其他
+
+> Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store
+
+---
+
+**16.** **★ Spitballing Predictions for Apple’s October** — ⭐ 15/30
+
+[★ Spitballing Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october) — **daringfireball.net** · 09-28 18:43 · 📝 其他
+
+> ★ Spitballing Predictions for Apple’s October
+
+---
+
+**17.** **Duo-Man** — ⭐ 15/30
+
+[Duo-Man](https://x.com/viditb/status/2104103592726765722) — **daringfireball.net** · 09-28 16:35 · 📝 其他
+
+> Duo-Man
+
+---
+
+**18.** **Pluralistic: Priceful (28 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: Priceful (28 Sep 2026)](https://pluralistic.net/2026/09/28/cost-of-everything/) — **pluralistic.net** · 09-28 17:48 · 📝 其他
+
+> Pluralistic: Priceful (28 Sep 2026)
+
+---
+
+**19.** **C++ reminder: Function-local static variables are initialized only once, even if it looks like they get initialized multiple times** — ⭐ 15/30
+
+[C++ reminder: Function-local static variables are initialized only once, even if it looks like they get initialized multiple times](https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/) — **devblogs.microsoft.com/oldnewthing** · 09-28 14:00 · 📝 其他
+
+> C++ reminder: Function-local static variables are initialized only once, even if it looks like they get initialized multiple times
+
+---
+
+**20.** **Donating to open source** — ⭐ 15/30
+
+[Donating to open source](https://entropicthoughts.com/open-source-donation) — **entropicthoughts.com** · 09-28 22:00 · 📝 其他
+
+> Donating to open source
+
+---
+
+**21.** **Post Capitalism** — ⭐ 15/30
+
+[Post Capitalism](https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html) — **geohot.github.io** · 09-28 16:00 · 📝 其他
+
+> Post Capitalism
+
+---
+
+**22.** **When Internet Explorer passed Netscape for the first time** — ⭐ 15/30
+
+[When Internet Explorer passed Netscape for the first time](https://dfarq.homeip.net/when-internet-explorer-passed-netscape-for-the-first-time/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-internet-explorer-passed-netscape-for-the-first-time) — **dfarq.homeip.net** · 09-29 11:00 · 📝 其他
+
+> When Internet Explorer passed Netscape for the first time
+
+---
+
+**23.** **AMD’s IPO, September 27, 1972** — ⭐ 15/30
+
+[AMD’s IPO, September 27, 1972](https://dfarq.homeip.net/amds-ipo-september-27-1972/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amds-ipo-september-27-1972) — **dfarq.homeip.net** · 09-28 11:00 · 📝 其他
+
+> AMD’s IPO, September 27, 1972
+
+---
+
+**24.** **Open State praatje: zonder transparantie geen democratie** — ⭐ 15/30
+
+[Open State praatje: zonder transparantie geen democratie](https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/) — **berthub.eu** · 09-28 11:40 · 📝 其他
+
+> Open State praatje: zonder transparantie geen democratie
+
+---
+
+**25.** **SmartOS: The illumos Way of Thinking About Servers** — ⭐ 15/30
+
+[SmartOS: The illumos Way of Thinking About Servers](https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/) — **it-notes.dragas.net** · 09-28 08:45 · 📝 其他
+
+> SmartOS: The illumos Way of Thinking About Servers
+
+---
+
+**26.** **The World Outside the Classroom Changed, The Class Didn’t** — ⭐ 15/30
+
+[The World Outside the Classroom Changed, The Class Didn’t](https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/) — **steveblank.com** · 09-28 13:00 · 📝 其他
+
+> The World Outside the Classroom Changed, The Class Didn’t
+
+---
+
+**27.** **Quoting Muse AI Agent** — ⭐ 15/30
+
+[Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/) — **simonwillison.net** · 09-28 04:01 · 📝 其他
+
+> Quoting Muse AI Agent
+
+---
+
+**28.** **2026 in LLMs (so far)** — ⭐ 15/30
+
+[2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) — **simonwillison.net** · 09-27 23:54 · 📝 其他
+
+> 2026 in LLMs (so far)
+
+---
+
+**29.** **S3 Is the Future, S3 Is the Past** — ⭐ 15/30
+
+[S3 Is the Future, S3 Is the Past](https://simonwillison.net/2026/Sep/27/hn-49871741/) — **simonwillison.net** · 09-27 23:09 · 📝 其他
+
+> S3 Is the Future, S3 Is the Past
+
+---
+
+**30.** **Bluesky reply bot checker** — ⭐ 15/30
+
+[Bluesky reply bot checker](https://simonwillison.net/2026/Sep/27/bluesky-bot-check/) — **simonwillison.net** · 09-27 18:41 · 📝 其他
+
+> Bluesky reply bot checker
+
+---
+
+*Generated at 2026-09-29 13:33 | Scanned 30 daily digests · 482 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
