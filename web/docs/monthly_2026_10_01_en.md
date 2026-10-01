@@ -1,0 +1,258 @@
+# 📊 AI Blog Monthly Top 30 — 2026-10-01
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Data Broker Radaris Loses Domains in Privacy Fight** — ⭐ 23/30
+
+[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 09-16 18:14 · 🔒 安全
+
+> Data Broker Radaris Loses Domains in Privacy Fight
+
+🏷️ data broker, privacy, lawsuit
+
+---
+
+🥈 **Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps** — ⭐ 20/30
+
+[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 09-16 22:40 · 🛠 工具 / 开源
+
+> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+
+🏷️ Xcode, iOS, Duo
+
+---
+
+🥉 **datasette 0.65.5** — ⭐ 20/30
+
+[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 09-16 23:51 · 💡 观点 / 杂谈
+
+> datasette 0.65.5
+
+🏷️ AI, fascism, sincerity
+
+---
+
+**4.** **Claude Cowork and chat are now one Claude** — ⭐ 20/30
+
+[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 09-16 18:09 · 💡 观点 / 杂谈
+
+> Claude Cowork and chat are now one Claude
+
+🏷️ AI, moratorium, competition
+
+---
+
+**5.** **Quoting Mustafa Suleyman** — ⭐ 20/30
+
+[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 09-16 16:00 · 🤖 AI / ML
+
+> Quoting Mustafa Suleyman
+
+🏷️ AI ethics, model welfare, consciousness
+
+---
+
+**6.** **Quoting Matthew Green** — ⭐ 15/30
+
+[Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/) — **simonwillison.net** · 10-01 06:29 · 📝 其他
+
+> Quoting Matthew Green
+
+---
+
+**7.** **He Built This City** — ⭐ 15/30
+
+[He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/) — **simonwillison.net** · 09-30 21:54 · 📝 其他
+
+> He Built This City
+
+---
+
+**8.** **Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13** — ⭐ 15/30
+
+[Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13](https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M) — **daringfireball.net** · 09-30 20:14 · 📝 其他
+
+> Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13
+
+---
+
+**9.** **Anthropic’s IPO Prospectus Is a Fucking Doozy** — ⭐ 15/30
+
+[Anthropic’s IPO Prospectus Is a Fucking Doozy](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/) — **daringfireball.net** · 09-30 19:23 · 📝 其他
+
+> Anthropic’s IPO Prospectus Is a Fucking Doozy
+
+---
+
+**10.** **Are you a smartwatch "power user"?** — ⭐ 15/30
+
+[Are you a smartwatch "power user"?](https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/) — **shkspr.mobi** · 09-30 11:34 · 📝 其他
+
+> Are you a smartwatch "power user"?
+
+---
+
+**11.** **Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86** — ⭐ 15/30
+
+[Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86](https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/) — **devblogs.microsoft.com/oldnewthing** · 09-30 14:00 · 📝 其他
+
+> Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86
+
+---
+
+**12.** **Death of the Dinner Party** — ⭐ 15/30
+
+[Death of the Dinner Party](https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed) — **derekthompson.org** · 10-01 11:00 · 📝 其他
+
+> Death of the Dinner Party
+
+---
+
+**13.** **Software Heritage Identifiers** — ⭐ 15/30
+
+[Software Heritage Identifiers](https://nesbitt.io/2026/10/01/software-heritage-identifiers.html) — **nesbitt.io** · 10-01 11:00 · 📝 其他
+
+> Software Heritage Identifiers
+
+---
+
+**14.** **Understanding the AI That Drives Robots** — ⭐ 15/30
+
+[Understanding the AI That Drives Robots](https://www.construction-physics.com/p/understanding-the-ai-that-drives) — **construction-physics.com** · 10-01 12:04 · 📝 其他
+
+> Understanding the AI That Drives Robots
+
+---
+
+**15.** **What TLA+ can and can't check** — ⭐ 15/30
+
+[What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/) — **buttondown.com/hillelwayne** · 09-30 13:27 · 📝 其他
+
+> What TLA+ can and can't check
+
+---
+
+**16.** **Why do you need freedom?** — ⭐ 15/30
+
+[Why do you need freedom?](https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html) — **geohot.github.io** · 09-30 16:00 · 📝 其他
+
+> Why do you need freedom?
+
+---
+
+**17.** **Dear Software Makers** — ⭐ 15/30
+
+[Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/) — **blog.jim-nielsen.com** · 09-30 19:00 · 📝 其他
+
+> Dear Software Makers
+
+---
+
+**18.** **The day GIF became free to use, forever** — ⭐ 15/30
+
+[The day GIF became free to use, forever](https://dfarq.homeip.net/the-day-gif-became-free-to-use-forever/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-day-gif-became-free-to-use-forever) — **dfarq.homeip.net** · 10-01 11:00 · 📝 其他
+
+> The day GIF became free to use, forever
+
+---
+
+**19.** **IBM PS/2 series** — ⭐ 15/30
+
+[IBM PS/2 series](https://dfarq.homeip.net/ibm-ps2-series/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ibm-ps2-series) — **dfarq.homeip.net** · 09-30 11:00 · 📝 其他
+
+> IBM PS/2 series
+
+---
+
+**20.** **Lean LaunchPad – The Next Generation** — ⭐ 15/30
+
+[Lean LaunchPad – The Next Generation](https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/) — **steveblank.com** · 09-30 13:00 · 📝 其他
+
+> Lean LaunchPad – The Next Generation
+
+---
+
+**21.** **Quoting Anthropic Frontier Red Team** — ⭐ 15/30
+
+[Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) — **simonwillison.net** · 09-29 22:20 · 📝 其他
+
+> Quoting Anthropic Frontier Red Team
+
+---
+
+**22.** **GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price** — ⭐ 15/30
+
+[GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://simonwillison.net/2026/Sep/29/hn-49898129/) — **simonwillison.net** · 09-29 18:27 · 📝 其他
+
+> GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+
+---
+
+**23.** **OpenAI DevDay 2026 live blog** — ⭐ 15/30
+
+[OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) — **simonwillison.net** · 09-29 15:55 · 📝 其他
+
+> OpenAI DevDay 2026 live blog
+
+---
+
+**24.** **Follow-Up on my Spitballed Predictions for Apple’s October** — ⭐ 15/30
+
+[Follow-Up on my Spitballed Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october) — **daringfireball.net** · 09-29 15:08 · 📝 其他
+
+> Follow-Up on my Spitballed Predictions for Apple’s October
+
+---
+
+**25.** **Destroy Any Website** — ⭐ 15/30
+
+[Destroy Any Website](https://destroy.spritefusion.com/) — **daringfireball.net** · 09-29 14:29 · 📝 其他
+
+> Destroy Any Website
+
+---
+
+**26.** **Pluralistic: Lindsay Owens's "Gouged" (29 Sep 2026)** — ⭐ 15/30
+
+[Pluralistic: Lindsay Owens's "Gouged" (29 Sep 2026)](https://pluralistic.net/2026/09/29/algorithmic-wage-theft/) — **pluralistic.net** · 09-29 13:40 · 📝 其他
+
+> Pluralistic: Lindsay Owens's "Gouged" (29 Sep 2026)
+
+---
+
+**27.** **As a general rule, calling product support while drunk is not recommended** — ⭐ 15/30
+
+[As a general rule, calling product support while drunk is not recommended](https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/) — **devblogs.microsoft.com/oldnewthing** · 09-29 14:00 · 📝 其他
+
+> As a general rule, calling product support while drunk is not recommended
+
+---
+
+**28.** **Dead Money** — ⭐ 15/30
+
+[Dead Money](https://www.wheresyoured.at/dead-money/) — **wheresyoured.at** · 09-29 15:45 · 📝 其他
+
+> Dead Money
+
+---
+
+**29.** **VLM Enhanced Metadata For My Icon Galleries** — ⭐ 15/30
+
+[VLM Enhanced Metadata For My Icon Galleries](https://blog.jim-nielsen.com/2026/icon-galleries-vlm/) — **blog.jim-nielsen.com** · 09-29 19:00 · 📝 其他
+
+> VLM Enhanced Metadata For My Icon Galleries
+
+---
+
+**30.** **When Internet Explorer passed Netscape for the first time** — ⭐ 15/30
+
+[When Internet Explorer passed Netscape for the first time](https://dfarq.homeip.net/when-internet-explorer-passed-netscape-for-the-first-time/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-internet-explorer-passed-netscape-for-the-first-time) — **dfarq.homeip.net** · 09-29 11:00 · 📝 其他
+
+> When Internet Explorer passed Netscape for the first time
+
+---
+
+*Generated at 2026-10-01 14:01 | Scanned 30 daily digests · 487 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
