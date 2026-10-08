@@ -1,0 +1,258 @@
+# 📊 AI Blog Monthly Top 30 — 2026-10-08
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Data Broker Radaris Loses Domains in Privacy Fight** — ⭐ 23/30
+
+[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 09-16 18:14 · 🔒 安全
+
+> Data Broker Radaris Loses Domains in Privacy Fight
+
+🏷️ data broker, privacy, lawsuit
+
+---
+
+🥈 **Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps** — ⭐ 20/30
+
+[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 09-16 22:40 · 🛠 工具 / 开源
+
+> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+
+🏷️ Xcode, iOS, Duo
+
+---
+
+🥉 **datasette 0.65.5** — ⭐ 20/30
+
+[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 09-16 23:51 · 💡 观点 / 杂谈
+
+> datasette 0.65.5
+
+🏷️ AI, fascism, sincerity
+
+---
+
+**4.** **Claude Cowork and chat are now one Claude** — ⭐ 20/30
+
+[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 09-16 18:09 · 💡 观点 / 杂谈
+
+> Claude Cowork and chat are now one Claude
+
+🏷️ AI, moratorium, competition
+
+---
+
+**5.** **Quoting Mustafa Suleyman** — ⭐ 20/30
+
+[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 09-16 16:00 · 🤖 AI / ML
+
+> Quoting Mustafa Suleyman
+
+🏷️ AI ethics, model welfare, consciousness
+
+---
+
+**6.** **Quoting Ben Affleck** — ⭐ 15/30
+
+[Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/) — **simonwillison.net** · 10-07 23:14 · 📝 其他
+
+> Quoting Ben Affleck
+
+---
+
+**7.** **Claude Haiku 5.5** — ⭐ 15/30
+
+[Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/) — **simonwillison.net** · 10-07 20:56 · 📝 其他
+
+> Claude Haiku 5.5
+
+---
+
+**8.** **Anti-Patterns in Software Blogging** — ⭐ 15/30
+
+[Anti-Patterns in Software Blogging](https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/) — **simonwillison.net** · 10-07 14:53 · 📝 其他
+
+> Anti-Patterns in Software Blogging
+
+---
+
+**9.** **ShinyHunters Extorted Boeing Spin-off Prior to Arrests** — ⭐ 15/30
+
+[ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) — **krebsonsecurity.com** · 10-07 13:48 · 📝 其他
+
+> ShinyHunters Extorted Boeing Spin-off Prior to Arrests
+
+---
+
+**10.** **Jaguar Type 01** — ⭐ 15/30
+
+[Jaguar Type 01](https://insideevs.com/news/810839/jaguar-type-01-launch-ev/) — **daringfireball.net** · 10-07 23:22 · 📝 其他
+
+> Jaguar Type 01
+
+---
+
+**11.** **Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’** — ⭐ 15/30
+
+[Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’](https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo) — **daringfireball.net** · 10-07 22:02 · 📝 其他
+
+> Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’
+
+---
+
+**12.** **Pluralistic: Disloyalty (07 Oct 2026)** — ⭐ 15/30
+
+[Pluralistic: Disloyalty (07 Oct 2026)](https://pluralistic.net/2026/10/07/gouged/) — **pluralistic.net** · 10-07 13:58 · 📝 其他
+
+> Pluralistic: Disloyalty (07 Oct 2026)
+
+---
+
+**13.** **Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪** — ⭐ 15/30
+
+[Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪](https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/) — **shkspr.mobi** · 10-08 11:34 · 📝 其他
+
+> Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪
+
+---
+
+**14.** **How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?** — ⭐ 15/30
+
+[How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?](https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/) — **devblogs.microsoft.com/oldnewthing** · 10-07 14:00 · 📝 其他
+
+> How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?
+
+---
+
+**15.** **Consequences of progress toward the Riemann Hypothesis** — ⭐ 15/30
+
+[Consequences of progress toward the Riemann Hypothesis](https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/) — **johndcook.com** · 10-07 22:29 · 📝 其他
+
+> Consequences of progress toward the Riemann Hypothesis
+
+---
+
+**16.** **Faster Fourier Transform** — ⭐ 15/30
+
+[Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/) — **johndcook.com** · 10-07 21:41 · 📝 其他
+
+> Faster Fourier Transform
+
+---
+
+**17.** **Irrationality exponent of π** — ⭐ 15/30
+
+[Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/) — **johndcook.com** · 10-07 21:19 · 📝 其他
+
+> Irrationality exponent of π
+
+---
+
+**18.** **Package Management RFCs** — ⭐ 15/30
+
+[Package Management RFCs](https://nesbitt.io/2026/10/07/package-management-rfcs.html) — **nesbitt.io** · 10-07 11:00 · 📝 其他
+
+> Package Management RFCs
+
+---
+
+**19.** **The Rise and Fall of the Plasma Screen** — ⭐ 15/30
+
+[The Rise and Fall of the Plasma Screen](https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen) — **construction-physics.com** · 10-08 12:02 · 📝 其他
+
+> The Rise and Fall of the Plasma Screen
+
+---
+
+**20.** **Swemak: Colemak for Swedish** — ⭐ 15/30
+
+[Swemak: Colemak for Swedish](https://entropicthoughts.com/swemak) — **entropicthoughts.com** · 10-07 22:00 · 📝 其他
+
+> Swemak: Colemak for Swedish
+
+---
+
+**21.** **When Apple Records sued Apple Computer** — ⭐ 15/30
+
+[When Apple Records sued Apple Computer](https://dfarq.homeip.net/when-apple-records-sued-apple-computer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-apple-records-sued-apple-computer) — **dfarq.homeip.net** · 10-08 11:00 · 📝 其他
+
+> When Apple Records sued Apple Computer
+
+---
+
+**22.** **Max Toy, embattled Commodore president** — ⭐ 15/30
+
+[Max Toy, embattled Commodore president](https://dfarq.homeip.net/max-toy-embattled-commodore-president/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=max-toy-embattled-commodore-president) — **dfarq.homeip.net** · 10-07 11:00 · 📝 其他
+
+> Max Toy, embattled Commodore president
+
+---
+
+**23.** **Monte-Carlo simulations** — ⭐ 15/30
+
+[Monte-Carlo simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/) — **eli.thegreenplace.net** · 10-08 02:34 · 📝 其他
+
+> Monte-Carlo simulations
+
+---
+
+**24.** **Quoting Jake Boggan** — ⭐ 15/30
+
+[Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) — **simonwillison.net** · 10-07 04:47 · 📝 其他
+
+> Quoting Jake Boggan
+
+---
+
+**25.** **OpenAI “rogue” agent activities found on Wikimedia projects** — ⭐ 15/30
+
+[OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/) — **simonwillison.net** · 10-07 00:16 · 📝 其他
+
+> OpenAI “rogue” agent activities found on Wikimedia projects
+
+---
+
+**26.** **Quoting Victoria Kim** — ⭐ 15/30
+
+[Quoting Victoria Kim](https://simonwillison.net/2026/Oct/6/victoria-kim/) — **simonwillison.net** · 10-06 23:58 · 📝 其他
+
+> Quoting Victoria Kim
+
+---
+
+**27.** **llm-openai-decisions 0.1a0** — ⭐ 15/30
+
+[llm-openai-decisions 0.1a0](https://simonwillison.net/2026/Oct/6/llm-openai-decisions/) — **simonwillison.net** · 10-06 23:04 · 📝 其他
+
+> llm-openai-decisions 0.1a0
+
+---
+
+**28.** **llm-mistral 0.16** — ⭐ 15/30
+
+[llm-mistral 0.16](https://simonwillison.net/2026/Oct/6/llm-mistral/) — **simonwillison.net** · 10-06 21:32 · 📝 其他
+
+> llm-mistral 0.16
+
+---
+
+**29.** **EmbeddingGemma 2** — ⭐ 15/30
+
+[EmbeddingGemma 2](https://simonwillison.net/2026/Oct/6/hn-49983751/) — **simonwillison.net** · 10-06 20:37 · 📝 其他
+
+> EmbeddingGemma 2
+
+---
+
+**30.** **Introducing Mistral Large 4: Le chonk** — ⭐ 15/30
+
+[Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/) — **simonwillison.net** · 10-06 20:18 · 📝 其他
+
+> Introducing Mistral Large 4: Le chonk
+
+---
+
+*Generated at 2026-10-08 14:13 | Scanned 30 daily digests · 482 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
