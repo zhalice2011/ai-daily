@@ -1,0 +1,258 @@
+# 📊 AI Blog Monthly Top 30 — 2026-10-09
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Data Broker Radaris Loses Domains in Privacy Fight** — ⭐ 23/30
+
+[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 09-16 18:14 · 🔒 安全
+
+> Data Broker Radaris Loses Domains in Privacy Fight
+
+🏷️ data broker, privacy, lawsuit
+
+---
+
+🥈 **Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps** — ⭐ 20/30
+
+[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 09-16 22:40 · 🛠 工具 / 开源
+
+> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+
+🏷️ Xcode, iOS, Duo
+
+---
+
+🥉 **datasette 0.65.5** — ⭐ 20/30
+
+[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 09-16 23:51 · 💡 观点 / 杂谈
+
+> datasette 0.65.5
+
+🏷️ AI, fascism, sincerity
+
+---
+
+**4.** **Claude Cowork and chat are now one Claude** — ⭐ 20/30
+
+[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 09-16 18:09 · 💡 观点 / 杂谈
+
+> Claude Cowork and chat are now one Claude
+
+🏷️ AI, moratorium, competition
+
+---
+
+**5.** **Quoting Mustafa Suleyman** — ⭐ 20/30
+
+[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 09-16 16:00 · 🤖 AI / ML
+
+> Quoting Mustafa Suleyman
+
+🏷️ AI ethics, model welfare, consciousness
+
+---
+
+**6.** **ttok 1.0** — ⭐ 15/30
+
+[ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/) — **simonwillison.net** · 10-09 00:34 · 📝 其他
+
+> ttok 1.0
+
+---
+
+**7.** **ttok 0.4** — ⭐ 15/30
+
+[ttok 0.4](https://simonwillison.net/2026/Oct/8/ttok/) — **simonwillison.net** · 10-08 23:34 · 📝 其他
+
+> ttok 0.4
+
+---
+
+**8.** **Quoting Carson Gross** — ⭐ 15/30
+
+[Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/) — **simonwillison.net** · 10-08 21:05 · 📝 其他
+
+> Quoting Carson Gross
+
+---
+
+**9.** **Let’s Check In on Trump’s Blog** — ⭐ 15/30
+
+[Let’s Check In on Trump’s Blog](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) — **daringfireball.net** · 10-08 22:52 · 📝 其他
+
+> Let’s Check In on Trump’s Blog
+
+---
+
+**10.** **Apple Is Slow-Rolling iOS 27 Adoption, So Far** — ⭐ 15/30
+
+[Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137) — **daringfireball.net** · 10-08 19:30 · 📝 其他
+
+> Apple Is Slow-Rolling iOS 27 Adoption, So Far
+
+---
+
+**11.** **Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October** — ⭐ 15/30
+
+[Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858) — **daringfireball.net** · 10-08 19:00 · 📝 其他
+
+> Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October
+
+---
+
+**12.** **20 Minutes of Political Debate, Brought to You by Commercial Breaks** — ⭐ 15/30
+
+[20 Minutes of Political Debate, Brought to You by Commercial Breaks](https://idiallo.com/byte-size/20-minutes-of-political-debate) — **idiallo.com** · 10-09 04:59 · 📝 其他
+
+> 20 Minutes of Political Debate, Brought to You by Commercial Breaks
+
+---
+
+**13.** **Concert Review: London Voices - Video Games Go Choral ★★★★☆** — ⭐ 15/30
+
+[Concert Review: London Voices - Video Games Go Choral ★★★★☆](https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/) — **shkspr.mobi** · 10-09 11:34 · 📝 其他
+
+> Concert Review: London Voices - Video Games Go Choral ★★★★☆
+
+---
+
+**14.** **Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪** — ⭐ 15/30
+
+[Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪](https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/) — **shkspr.mobi** · 10-08 11:34 · 📝 其他
+
+> Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪
+
+---
+
+**15.** **If one anti-malware software is good, does that make two better?** — ⭐ 15/30
+
+[If one anti-malware software is good, does that make two better?](https://devblogs.microsoft.com/oldnewthing/20261008-00/?p=112762/) — **devblogs.microsoft.com/oldnewthing** · 10-08 14:00 · 📝 其他
+
+> If one anti-malware software is good, does that make two better?
+
+---
+
+**16.** **Privacy policies and modal logic** — ⭐ 15/30
+
+[Privacy policies and modal logic](https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/) — **johndcook.com** · 10-08 13:43 · 📝 其他
+
+> Privacy policies and modal logic
+
+---
+
+**17.** **The Rise and Fall of the Plasma Screen** — ⭐ 15/30
+
+[The Rise and Fall of the Plasma Screen](https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen) — **construction-physics.com** · 10-08 12:02 · 📝 其他
+
+> The Rise and Fall of the Plasma Screen
+
+---
+
+**18.** **Let’s Deconstruct Photoshop** — ⭐ 15/30
+
+[Let’s Deconstruct Photoshop](https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake) — **tedium.co** · 10-08 16:54 · 📝 其他
+
+> Let’s Deconstruct Photoshop
+
+---
+
+**19.** **iFlac: Sync your FLAC files to your iPhone from Linux** — ⭐ 15/30
+
+[iFlac: Sync your FLAC files to your iPhone from Linux](https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html) — **jayd.ml** · 10-08 18:33 · 📝 其他
+
+> iFlac: Sync your FLAC files to your iPhone from Linux
+
+---
+
+**20.** **Get Player Stats From Your Minecraft Server Logs** — ⭐ 15/30
+
+[Get Player Stats From Your Minecraft Server Logs](https://jayd.ml/2026/10/08/minecraft-log-analyzer.html) — **jayd.ml** · 10-08 18:26 · 📝 其他
+
+> Get Player Stats From Your Minecraft Server Logs
+
+---
+
+**21.** **“Getting off the Modernization Treadmill”** — ⭐ 15/30
+
+[“Getting off the Modernization Treadmill”](https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/) — **blog.jim-nielsen.com** · 10-08 19:00 · 📝 其他
+
+> “Getting off the Modernization Treadmill”
+
+---
+
+**22.** **Commodore’s knockoff Atari joystick from 1982** — ⭐ 15/30
+
+[Commodore’s knockoff Atari joystick from 1982](https://dfarq.homeip.net/commodores-knockoff-atari-joystick-from-1982/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=commodores-knockoff-atari-joystick-from-1982) — **dfarq.homeip.net** · 10-09 11:00 · 📝 其他
+
+> Commodore’s knockoff Atari joystick from 1982
+
+---
+
+**23.** **When Apple Records sued Apple Computer** — ⭐ 15/30
+
+[When Apple Records sued Apple Computer](https://dfarq.homeip.net/when-apple-records-sued-apple-computer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-apple-records-sued-apple-computer) — **dfarq.homeip.net** · 10-08 11:00 · 📝 其他
+
+> When Apple Records sued Apple Computer
+
+---
+
+**24.** **Quoting Ben Affleck** — ⭐ 15/30
+
+[Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/) — **simonwillison.net** · 10-07 23:14 · 📝 其他
+
+> Quoting Ben Affleck
+
+---
+
+**25.** **Claude Haiku 5.5** — ⭐ 15/30
+
+[Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/) — **simonwillison.net** · 10-07 20:56 · 📝 其他
+
+> Claude Haiku 5.5
+
+---
+
+**26.** **Anti-Patterns in Software Blogging** — ⭐ 15/30
+
+[Anti-Patterns in Software Blogging](https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/) — **simonwillison.net** · 10-07 14:53 · 📝 其他
+
+> Anti-Patterns in Software Blogging
+
+---
+
+**27.** **ShinyHunters Extorted Boeing Spin-off Prior to Arrests** — ⭐ 15/30
+
+[ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) — **krebsonsecurity.com** · 10-07 13:48 · 📝 其他
+
+> ShinyHunters Extorted Boeing Spin-off Prior to Arrests
+
+---
+
+**28.** **Jaguar Type 01** — ⭐ 15/30
+
+[Jaguar Type 01](https://insideevs.com/news/810839/jaguar-type-01-launch-ev/) — **daringfireball.net** · 10-07 23:22 · 📝 其他
+
+> Jaguar Type 01
+
+---
+
+**29.** **Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’** — ⭐ 15/30
+
+[Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’](https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo) — **daringfireball.net** · 10-07 22:02 · 📝 其他
+
+> Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’
+
+---
+
+**30.** **Pluralistic: Disloyalty (07 Oct 2026)** — ⭐ 15/30
+
+[Pluralistic: Disloyalty (07 Oct 2026)](https://pluralistic.net/2026/10/07/gouged/) — **pluralistic.net** · 10-07 13:58 · 📝 其他
+
+> Pluralistic: Disloyalty (07 Oct 2026)
+
+---
+
+*Generated at 2026-10-09 13:59 | Scanned 30 daily digests · 482 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
