@@ -1,0 +1,248 @@
+# 📊 AI Blog Monthly Top 30 — 2026-11-02
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **The U.S. Census Bureau and “Super Intelligence”** — ⭐ 15/30
+
+[The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — **simonwillison.net** · 11-02 13:31 · 📝 其他
+
+> The U.S. Census Bureau and “Super Intelligence”
+
+---
+
+🥈 **If in doubt, delete the uv.lock file** — ⭐ 15/30
+
+[If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) — **simonwillison.net** · 11-01 23:24 · 📝 其他
+
+> If in doubt, delete the uv.lock file
+
+---
+
+🥉 **Quoting Kyle Kingsbury** — ⭐ 15/30
+
+[Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) — **simonwillison.net** · 11-01 16:49 · 📝 其他
+
+> Quoting Kyle Kingsbury
+
+---
+
+**4.** **Reliably aligning LLMs is impossible in principle** — ⭐ 15/30
+
+[Reliably aligning LLMs is impossible in principle](https://seangoedecke.com/alignment-is-impossible/) — **seangoedecke.com** · 11-02 00:00 · 📝 其他
+
+> Reliably aligning LLMs is impossible in principle
+
+---
+
+**5.** **WorkOS: Let Agents Sign Up for Your App Without a Browser** — ⭐ 15/30
+
+[WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026) — **daringfireball.net** · 11-01 20:22 · 📝 其他
+
+> WorkOS: Let Agents Sign Up for Your App Without a Browser
+
+---
+
+**6.** **Pluralistic: Autodoxing (02 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/) — **pluralistic.net** · 11-02 08:20 · 📝 其他
+
+> Pluralistic: Autodoxing (02 Nov 2026)
+
+---
+
+**7.** **Lorem Ipsum Dot Gov Dot UK** — ⭐ 15/30
+
+[Lorem Ipsum Dot Gov Dot UK](https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/) — **shkspr.mobi** · 11-02 12:34 · 📝 其他
+
+> Lorem Ipsum Dot Gov Dot UK
+
+---
+
+**8.** **10 Years on Mastodon** — ⭐ 15/30
+
+[10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — **shkspr.mobi** · 11-01 12:34 · 📝 其他
+
+> 10 Years on Mastodon
+
+---
+
+**9.** **Making peace with the projective plane** — ⭐ 15/30
+
+[Making peace with the projective plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/) — **johndcook.com** · 11-02 14:44 · 📝 其他
+
+> Making peace with the projective plane
+
+---
+
+**10.** **A unified view of poles and polars** — ⭐ 15/30
+
+[A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/) — **johndcook.com** · 11-01 20:29 · 📝 其他
+
+> A unified view of poles and polars
+
+---
+
+**11.** **A Mastodon bot powered by iOS Shortcuts** — ⭐ 15/30
+
+[A Mastodon bot powered by iOS Shortcuts](https://evanhahn.com/mastodon-bot-with-ios-shortcuts/) — **evanhahn.com** · 11-01 11:00 · 📝 其他
+
+> A Mastodon bot powered by iOS Shortcuts
+
+---
+
+**12.** **Etoys.com and its rapid rise and fall** — ⭐ 15/30
+
+[Etoys.com and its rapid rise and fall](https://dfarq.homeip.net/etoys-com-and-its-rapid-rise-and-fall/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=etoys-com-and-its-rapid-rise-and-fall) — **dfarq.homeip.net** · 11-02 12:00 · 📝 其他
+
+> Etoys.com and its rapid rise and fall
+
+---
+
+**13.** **IBM PC/XT drives stuck in the bay? How to free them** — ⭐ 15/30
+
+[IBM PC/XT drives stuck in the bay? How to free them](https://dfarq.homeip.net/ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them) — **dfarq.homeip.net** · 11-01 12:00 · 📝 其他
+
+> IBM PC/XT drives stuck in the bay? How to free them
+
+---
+
+**14.** **How We Took Over ChatGPT Accounts** — ⭐ 15/30
+
+[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — **simonwillison.net** · 10-31 23:15 · 📝 其他
+
+> How We Took Over ChatGPT Accounts
+
+---
+
+**15.** **datasette-llm 0.1a9** — ⭐ 15/30
+
+[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — **simonwillison.net** · 10-31 22:10 · 📝 其他
+
+> datasette-llm 0.1a9
+
+---
+
+**16.** **Fast and slow ways to improve your reputation** — ⭐ 15/30
+
+[Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — **seangoedecke.com** · 11-01 00:00 · 📝 其他
+
+> Fast and slow ways to improve your reputation
+
+---
+
+**17.** **Pluralistic: Formalities (31 Oct 2026)** — ⭐ 15/30
+
+[Pluralistic: Formalities (31 Oct 2026)](https://pluralistic.net/2026/10/31/burn-berne/) — **pluralistic.net** · 10-31 15:15 · 📝 其他
+
+> Pluralistic: Formalities (31 Oct 2026)
+
+---
+
+**18.** **Gig Review: The Witcher in Concert ★★★★☆** — ⭐ 15/30
+
+[Gig Review: The Witcher in Concert ★★★★☆](https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/) — **shkspr.mobi** · 10-31 12:34 · 📝 其他
+
+> Gig Review: The Witcher in Concert ★★★★☆
+
+---
+
+**19.** **This Week in Package Management: 31 October 2026** — ⭐ 15/30
+
+[This Week in Package Management: 31 October 2026](https://nesbitt.io/2026/10/31/this-week-in-package-management.html) — **nesbitt.io** · 10-31 10:00 · 📝 其他
+
+> This Week in Package Management: 31 October 2026
+
+---
+
+**20.** **Reading List 10/31/26** — ⭐ 15/30
+
+[Reading List 10/31/26](https://www.construction-physics.com/p/reading-list-103126) — **construction-physics.com** · 10-31 12:34 · 📝 其他
+
+> Reading List 10/31/26
+
+---
+
+**21.** **Johnston’s Electric Trains, St. Louis** — ⭐ 15/30
+
+[Johnston’s Electric Trains, St. Louis](https://dfarq.homeip.net/johnstons-electric-trains-st-louis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=johnstons-electric-trains-st-louis) — **dfarq.homeip.net** · 10-31 11:03 · 📝 其他
+
+> Johnston’s Electric Trains, St. Louis
+
+---
+
+**22.** **Weekly Update 528: Reading AI-generated Code & the Economics of Solar** — ⭐ 15/30
+
+[Weekly Update 528: Reading AI-generated Code & the Economics of Solar](https://www.troyhunt.com/weekly-update-528/) — **troyhunt.com** · 11-01 07:35 · 📝 其他
+
+> Weekly Update 528: Reading AI-generated Code & the Economics of Solar
+
+---
+
+**23.** **dbreunig/nesformer** — ⭐ 15/30
+
+[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — **simonwillison.net** · 10-30 21:59 · 📝 其他
+
+> dbreunig/nesformer
+
+---
+
+**24.** **Rejoice, leap seconds are dead!** — ⭐ 15/30
+
+[Rejoice, leap seconds are dead!](https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/) — **jeffgeerling.com** · 10-30 14:00 · 📝 其他
+
+> Rejoice, leap seconds are dead!
+
+---
+
+**25.** **Sponsorship Openings for Daring Fireball (Including The Talk Show)** — ⭐ 15/30
+
+[Sponsorship Openings for Daring Fireball (Including The Talk Show)](https://daringfireball.net/feeds/sponsors/) — **daringfireball.net** · 10-30 22:30 · 📝 其他
+
+> Sponsorship Openings for Daring Fireball (Including The Talk Show)
+
+---
+
+**26.** **★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max** — ⭐ 15/30
+
+[★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max) — **daringfireball.net** · 10-30 21:56 · 📝 其他
+
+> ★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max
+
+---
+
+**27.** **The Only Good Easter Eggs Are Whole-Assed Easter Eggs** — ⭐ 15/30
+
+[The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) — **daringfireball.net** · 10-30 17:53 · 📝 其他
+
+> The Only Good Easter Eggs Are Whole-Assed Easter Eggs
+
+---
+
+**28.** **GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy** — ⭐ 15/30
+
+[GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/) — **daringfireball.net** · 10-30 17:18 · 📝 其他
+
+> GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy
+
+---
+
+**29.** **Patrick Stewart Dies at 86** — ⭐ 15/30
+
+[Patrick Stewart Dies at 86](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/) — **daringfireball.net** · 10-30 16:53 · 📝 其他
+
+> Patrick Stewart Dies at 86
+
+---
+
+**30.** **College will only cost $20 a month** — ⭐ 15/30
+
+[College will only cost $20 a month](https://idiallo.com/blog/college-will-cost-20-dollars) — **idiallo.com** · 10-30 23:35 · 📝 其他
+
+> College will only cost $20 a month
+
+---
+
+*Generated at 2026-11-02 16:41 | Scanned 30 daily digests · 458 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
