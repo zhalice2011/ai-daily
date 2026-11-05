@@ -1,0 +1,248 @@
+# 📊 AI Blog Monthly Top 30 — 2026-11-05
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **datasette-llm 0.1a10** — ⭐ 15/30
+
+[datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) — **simonwillison.net** · 11-04 15:26 · 📝 其他
+
+> datasette-llm 0.1a10
+
+---
+
+🥈 **Want to Rent an Internet Address at the White House?** — ⭐ 15/30
+
+[Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/) — **krebsonsecurity.com** · 11-05 04:36 · 📝 其他
+
+> Want to Rent an Internet Address at the White House?
+
+---
+
+🥉 **This Election Will Not Look Surprising in History** — ⭐ 15/30
+
+[This Election Will Not Look Surprising in History](https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi) — **daringfireball.net** · 11-04 15:15 · 📝 其他
+
+> This Election Will Not Look Surprising in History
+
+---
+
+**4.** **‘Political Reckoning Shatters Trump’s Grip on Washington’** — ⭐ 15/30
+
+[‘Political Reckoning Shatters Trump’s Grip on Washington’](https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit) — **daringfireball.net** · 11-04 14:56 · 📝 其他
+
+> ‘Political Reckoning Shatters Trump’s Grip on Washington’
+
+---
+
+**5.** **Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)](https://pluralistic.net/2026/11/05/see-you-in-court/) — **pluralistic.net** · 11-05 08:53 · 📝 其他
+
+> Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)
+
+---
+
+**6.** **Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)](https://pluralistic.net/2026/11/04/genius-scan-is-neither/) — **pluralistic.net** · 11-04 11:45 · 📝 其他
+
+> Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)
+
+---
+
+**7.** **Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪** — ⭐ 15/30
+
+[Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-tozo-nc9-pro-bluetooth-headphones/) — **shkspr.mobi** · 11-05 12:34 · 📝 其他
+
+> Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪
+
+---
+
+**8.** **Book Review: Practice by Rosalind Brown ★★★★☆** — ⭐ 15/30
+
+[Book Review: Practice by Rosalind Brown ★★★★☆](https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/) — **shkspr.mobi** · 11-04 12:34 · 📝 其他
+
+> Book Review: Practice by Rosalind Brown ★★★★☆
+
+---
+
+**9.** **There are things with ranks, but it’s not always clear what the ranks mean** — ⭐ 15/30
+
+[There are things with ranks, but it’s not always clear what the ranks mean](https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/) — **devblogs.microsoft.com/oldnewthing** · 11-04 15:00 · 📝 其他
+
+> There are things with ranks, but it’s not always clear what the ranks mean
+
+---
+
+**10.** **“It Gives Great Demo”** — ⭐ 15/30
+
+[“It Gives Great Demo”](https://blog.jim-nielsen.com/2026/it-gives-great-demo/) — **blog.jim-nielsen.com** · 11-04 19:00 · 📝 其他
+
+> “It Gives Great Demo”
+
+---
+
+**11.** **Micron Computers’ rise and fall** — ⭐ 15/30
+
+[Micron Computers’ rise and fall](https://dfarq.homeip.net/micron-computers-rise-and-fall/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=micron-computers-rise-and-fall) — **dfarq.homeip.net** · 11-05 12:00 · 📝 其他
+
+> Micron Computers’ rise and fall
+
+---
+
+**12.** **The first Compaq computer** — ⭐ 15/30
+
+[The first Compaq computer](https://dfarq.homeip.net/first-compaq-computer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=first-compaq-computer) — **dfarq.homeip.net** · 11-04 12:00 · 📝 其他
+
+> The first Compaq computer
+
+---
+
+**13.** **How to install an app on your Commodore 64** — ⭐ 15/30
+
+[How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — **anildash.com** · 11-04 23:37 · 📝 其他
+
+> How to install an app on your Commodore 64
+
+---
+
+**14.** **Qwen 3.8 27B on my laptop can interpret model weights, too** — ⭐ 15/30
+
+[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) — **simonwillison.net** · 11-03 16:29 · 📝 其他
+
+> Qwen 3.8 27B on my laptop can interpret model weights, too
+
+---
+
+**15.** **Apple Begins Opening Siri AI to Developers** — ⭐ 15/30
+
+[Apple Begins Opening Siri AI to Developers](https://developer.apple.com/news/?id=gdk2umrf) — **daringfireball.net** · 11-03 23:58 · 📝 其他
+
+> Apple Begins Opening Siri AI to Developers
+
+---
+
+**16.** **iPad Mini (A20 Pro) Review Roundup** — ⭐ 15/30
+
+[iPad Mini (A20 Pro) Review Roundup](https://www.techmeme.com/261103/p15#a261103p15) — **daringfireball.net** · 11-03 23:45 · 📝 其他
+
+> iPad Mini (A20 Pro) Review Roundup
+
+---
+
+**17.** **MKBHD on the New A20 Pro iPad Mini** — ⭐ 15/30
+
+[MKBHD on the New A20 Pro iPad Mini](https://www.youtube.com/watch?v=g6Die8gVFn0) — **daringfireball.net** · 11-03 23:25 · 📝 其他
+
+> MKBHD on the New A20 Pro iPad Mini
+
+---
+
+**18.** **Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode** — ⭐ 15/30
+
+[Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/) — **daringfireball.net** · 11-03 19:26 · 📝 其他
+
+> Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode
+
+---
+
+**19.** **The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training** — ⭐ 15/30
+
+[The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times) — **daringfireball.net** · 11-03 15:46 · 📝 其他
+
+> The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training
+
+---
+
+**20.** **Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’** — ⭐ 15/30
+
+[Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’](https://www.macworld.com/article/208438/jobs_transcript.html) — **daringfireball.net** · 11-03 15:40 · 📝 其他
+
+> Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’
+
+---
+
+**21.** **Chance Miller Reviews the New A20 Pro iPad Mini** — ⭐ 15/30
+
+[Chance Miller Reviews the New A20 Pro iPad Mini](https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/) — **daringfireball.net** · 11-03 14:51 · 📝 其他
+
+> Chance Miller Reviews the New A20 Pro iPad Mini
+
+---
+
+**22.** **Apple’s Analyst Calls Have Been Scripted for Decades** — ⭐ 15/30
+
+[Apple’s Analyst Calls Have Been Scripted for Decades](https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/) — **daringfireball.net** · 11-03 14:39 · 📝 其他
+
+> Apple’s Analyst Calls Have Been Scripted for Decades
+
+---
+
+**23.** **Apple’s New iPhone Release Schedule Seems to Pay Off** — ⭐ 15/30
+
+[Apple’s New iPhone Release Schedule Seems to Pay Off](https://x.com/asymco/status/2117379158087278697) — **daringfireball.net** · 11-03 14:30 · 📝 其他
+
+> Apple’s New iPhone Release Schedule Seems to Pay Off
+
+---
+
+**24.** **Goodhart's Law, but We Already Spent All Our Money** — ⭐ 15/30
+
+[Goodhart's Law, but We Already Spent All Our Money](https://idiallo.com/blog/we-spent-all-our-money-goodharts-law) — **idiallo.com** · 11-04 08:00 · 📝 其他
+
+> Goodhart's Law, but We Already Spent All Our Money
+
+---
+
+**25.** **Pluralistic: Separable (03 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: Separable (03 Nov 2026)](https://pluralistic.net/2026/11/03/nobody-is-home/) — **pluralistic.net** · 11-03 14:19 · 📝 其他
+
+> Pluralistic: Separable (03 Nov 2026)
+
+---
+
+**26.** **Just a little AI resistance, as a treat** — ⭐ 15/30
+
+[Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/) — **shkspr.mobi** · 11-03 12:34 · 📝 其他
+
+> Just a little AI resistance, as a treat
+
+---
+
+**27.** **How do you implement a random-access database when you don’t have random-access external storage?** — ⭐ 15/30
+
+[How do you implement a random-access database when you don’t have random-access external storage?](https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/) — **devblogs.microsoft.com/oldnewthing** · 11-03 15:00 · 📝 其他
+
+> How do you implement a random-access database when you don’t have random-access external storage?
+
+---
+
+**28.** **Fraction comparison trick revisited** — ⭐ 15/30
+
+[Fraction comparison trick revisited](https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/) — **johndcook.com** · 11-03 14:41 · 📝 其他
+
+> Fraction comparison trick revisited
+
+---
+
+**29.** **Euclidean, Spherical, and Projective Geometry** — ⭐ 15/30
+
+[Euclidean, Spherical, and Projective Geometry](https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/) — **johndcook.com** · 11-03 12:33 · 📝 其他
+
+> Euclidean, Spherical, and Projective Geometry
+
+---
+
+**30.** **How a programming might reinvent the projective plane** — ⭐ 15/30
+
+[How a programming might reinvent the projective plane](https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/) — **johndcook.com** · 11-03 10:45 · 📝 其他
+
+> How a programming might reinvent the projective plane
+
+---
+
+*Generated at 2026-11-05 15:02 | Scanned 30 daily digests · 479 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
