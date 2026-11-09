@@ -1,0 +1,248 @@
+# 📊 AI Blog Monthly Top 30 — 2026-11-09
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **The Web Is More Than Enough, by Paul Ford** — ⭐ 15/30
+
+[The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/) — **simonwillison.net** · 11-09 04:32 · 📝 其他
+
+> The Web Is More Than Enough, by Paul Ford
+
+---
+
+🥈 **Hide your slop PR descriptions behind <details><summary>** — ⭐ 15/30
+
+[Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/) — **simonwillison.net** · 11-09 04:25 · 📝 其他
+
+> Hide your slop PR descriptions behind <details><summary>
+
+---
+
+🥉 **parse_number() as a SQLite extension: C vs Rust** — ⭐ 15/30
+
+[parse_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/) — **simonwillison.net** · 11-08 22:26 · 📝 其他
+
+> parse_number() as a SQLite extension: C vs Rust
+
+---
+
+**4.** **Jensen Huang Betrayed Nvidia, Not Just His Family** — ⭐ 15/30
+
+[Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI) — **daringfireball.net** · 11-08 23:56 · 📝 其他
+
+> Jensen Huang Betrayed Nvidia, Not Just His Family
+
+---
+
+**5.** **Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing** — ⭐ 15/30
+
+[Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L) — **daringfireball.net** · 11-08 21:50 · 📝 其他
+
+> Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing
+
+---
+
+**6.** **Pluralistic: America cannot undo Trumpism (09 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: America cannot undo Trumpism (09 Nov 2026)](https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/) — **pluralistic.net** · 11-09 08:12 · 📝 其他
+
+> Pluralistic: America cannot undo Trumpism (09 Nov 2026)
+
+---
+
+**7.** **Blunt Banhammer Blocks Basic Bots Ballistically** — ⭐ 15/30
+
+[Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/) — **shkspr.mobi** · 11-09 12:34 · 📝 其他
+
+> Blunt Banhammer Blocks Basic Bots Ballistically
+
+---
+
+**8.** **Some thoughts on restaurant menu QR codes** — ⭐ 15/30
+
+[Some thoughts on restaurant menu QR codes](https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/) — **shkspr.mobi** · 11-08 12:34 · 📝 其他
+
+> Some thoughts on restaurant menu QR codes
+
+---
+
+**9.** **Optimal virulence and the Android lockdown** — ⭐ 15/30
+
+[Optimal virulence and the Android lockdown](https://dynomight.net/android/) — **dynomight.net** · 11-09 00:00 · 📝 其他
+
+> Optimal virulence and the Android lockdown
+
+---
+
+**10.** **Reverse engineering a vintage diode-transistor logic chip** — ⭐ 15/30
+
+[Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/feeds/7533579802505281921/comments/default) — **righto.com** · 11-08 16:12 · 📝 其他
+
+> Reverse engineering a vintage diode-transistor logic chip
+
+---
+
+**11.** **Finite hyperbolic planes** — ⭐ 15/30
+
+[Finite hyperbolic planes](https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/) — **johndcook.com** · 11-09 14:26 · 📝 其他
+
+> Finite hyperbolic planes
+
+---
+
+**12.** **Finite Affine Planes** — ⭐ 15/30
+
+[Finite Affine Planes](https://www.johndcook.com/blog/2026/11/09/finite-affine-planes/) — **johndcook.com** · 11-09 14:21 · 📝 其他
+
+> Finite Affine Planes
+
+---
+
+**13.** **Finite Projective Planes** — ⭐ 15/30
+
+[Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/) — **johndcook.com** · 11-08 23:23 · 📝 其他
+
+> Finite Projective Planes
+
+---
+
+**14.** **Introducing Ninety** — ⭐ 15/30
+
+[Introducing Ninety](https://nesbitt.io/2026/11/09/introducing-ninety.html) — **nesbitt.io** · 11-09 12:00 · 📝 其他
+
+> Introducing Ninety
+
+---
+
+**15.** **Yak-Shaving Overload** — ⭐ 15/30
+
+[Yak-Shaving Overload](https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects) — **tedium.co** · 11-09 02:50 · 📝 其他
+
+> Yak-Shaving Overload
+
+---
+
+**16.** **Addition By Subtraction** — ⭐ 15/30
+
+[Addition By Subtraction](https://blog.jim-nielsen.com/2026/addition-by-subtraction/) — **blog.jim-nielsen.com** · 11-08 19:00 · 📝 其他
+
+> Addition By Subtraction
+
+---
+
+**17.** **Radio Shack index** — ⭐ 15/30
+
+[Radio Shack index](https://dfarq.homeip.net/radio-shack-index/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radio-shack-index) — **dfarq.homeip.net** · 11-09 12:30 · 📝 其他
+
+> Radio Shack index
+
+---
+
+**18.** **Silicon Graphics founded November 9, 1981** — ⭐ 15/30
+
+[Silicon Graphics founded November 9, 1981](https://dfarq.homeip.net/silicon-graphics-founded-november-9-1981/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=silicon-graphics-founded-november-9-1981) — **dfarq.homeip.net** · 11-09 12:00 · 📝 其他
+
+> Silicon Graphics founded November 9, 1981
+
+---
+
+**19.** **The problem with Micron MT 4264 RAM** — ⭐ 15/30
+
+[The problem with Micron MT 4264 RAM](https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-problem-with-micron-mt-4264-ram) — **dfarq.homeip.net** · 11-08 12:00 · 📝 其他
+
+> The problem with Micron MT 4264 RAM
+
+---
+
+**20.** **Is AI crashing?** — ⭐ 15/30
+
+[Is AI crashing?](https://dfarq.homeip.net/is-ai-crashing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=is-ai-crashing) — **dfarq.homeip.net** · 11-08 12:00 · 📝 其他
+
+> Is AI crashing?
+
+---
+
+**21.** **datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages** — ⭐ 15/30
+
+[datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) — **simonwillison.net** · 11-07 23:57 · 📝 其他
+
+> datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages
+
+---
+
+**22.** **LLMs are terrible at designing AI systems** — ⭐ 15/30
+
+[LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) — **seangoedecke.com** · 11-08 00:00 · 📝 其他
+
+> LLMs are terrible at designing AI systems
+
+---
+
+**23.** **Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays** — ⭐ 15/30
+
+[Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0) — **daringfireball.net** · 11-07 21:14 · 📝 其他
+
+> Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays
+
+---
+
+**24.** **Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)](https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/) — **pluralistic.net** · 11-07 13:03 · 📝 其他
+
+> Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)
+
+---
+
+**25.** **Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★** — ⭐ 15/30
+
+[Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★](https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/) — **shkspr.mobi** · 11-07 12:34 · 📝 其他
+
+> Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★
+
+---
+
+**26.** **This Week in Package Management: 7 November 2026** — ⭐ 15/30
+
+[This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html) — **nesbitt.io** · 11-07 10:00 · 📝 其他
+
+> This Week in Package Management: 7 November 2026
+
+---
+
+**27.** **Reading List 11/7/2026** — ⭐ 15/30
+
+[Reading List 11/7/2026](https://www.construction-physics.com/p/reading-list-1172026) — **construction-physics.com** · 11-07 13:23 · 📝 其他
+
+> Reading List 11/7/2026
+
+---
+
+**28.** **Marx diesel freight train set 9613** — ⭐ 15/30
+
+[Marx diesel freight train set 9613](https://dfarq.homeip.net/marx-diesel-freight-train-set-9613/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=marx-diesel-freight-train-set-9613) — **dfarq.homeip.net** · 11-07 12:00 · 📝 其他
+
+> Marx diesel freight train set 9613
+
+---
+
+**29.** **Upgrade diary: HP Elitedesk 800 G4** — ⭐ 15/30
+
+[Upgrade diary: HP Elitedesk 800 G4](https://dfarq.homeip.net/upgrade-diary-hp-elitedesk-800-g4/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=upgrade-diary-hp-elitedesk-800-g4) — **dfarq.homeip.net** · 11-07 12:00 · 📝 其他
+
+> Upgrade diary: HP Elitedesk 800 G4
+
+---
+
+**30.** **Quoting Nilay Patel** — ⭐ 15/30
+
+[Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) — **simonwillison.net** · 11-06 17:13 · 📝 其他
+
+> Quoting Nilay Patel
+
+---
+
+*Generated at 2026-11-09 16:59 | Scanned 30 daily digests · 464 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
