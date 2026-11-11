@@ -1,0 +1,248 @@
+# 📊 AI Blog Monthly Top 30 — 2026-11-11
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **llm-gemini 0.36** — ⭐ 15/30
+
+[llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/) — **simonwillison.net** · 11-10 20:09 · 📝 其他
+
+> llm-gemini 0.36
+
+---
+
+🥈 **Glue work is still harmful in the age of AI** — ⭐ 15/30
+
+[Glue work is still harmful in the age of AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/) — **seangoedecke.com** · 11-11 00:00 · 📝 其他
+
+> Glue work is still harmful in the age of AI
+
+---
+
+🥉 **Microsoft Fixes Nearly 1,100 Security Vulnerabilities** — ⭐ 15/30
+
+[Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/) — **krebsonsecurity.com** · 11-10 21:55 · 📝 其他
+
+> Microsoft Fixes Nearly 1,100 Security Vulnerabilities
+
+---
+
+**4.** **Gary Marcus: ‘Just Say No to Anthropic’s IPO’** — ⭐ 15/30
+
+[Gary Marcus: ‘Just Say No to Anthropic’s IPO’](https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0) — **daringfireball.net** · 11-10 22:16 · 📝 其他
+
+> Gary Marcus: ‘Just Say No to Anthropic’s IPO’
+
+---
+
+**5.** **Altar II Keyboard on Kickstarter** — ⭐ 15/30
+
+[Altar II Keyboard on Kickstarter](https://www.kickstarter.com/projects/electronicamaterials/altar-ii/) — **daringfireball.net** · 11-10 20:59 · 📝 其他
+
+> Altar II Keyboard on Kickstarter
+
+---
+
+**6.** **Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’** — ⭐ 15/30
+
+[Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling) — **daringfireball.net** · 11-10 17:06 · 📝 其他
+
+> Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’
+
+---
+
+**7.** **Regarding Graveyards and Indispensable Men** — ⭐ 15/30
+
+[Regarding Graveyards and Indispensable Men](https://www.youtube.com/watch?v=vydmUCGQnyI) — **daringfireball.net** · 11-10 17:01 · 📝 其他
+
+> Regarding Graveyards and Indispensable Men
+
+---
+
+**8.** **Steven Levy on John Ternus** — ⭐ 15/30
+
+[Steven Levy on John Ternus](https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/) — **daringfireball.net** · 11-10 16:32 · 📝 其他
+
+> Steven Levy on John Ternus
+
+---
+
+**9.** **OurCal** — ⭐ 15/30
+
+[OurCal](https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou) — **daringfireball.net** · 11-10 15:15 · 📝 其他
+
+> OurCal
+
+---
+
+**10.** **Safari 27.3 Adds Support for Global Privacy Control** — ⭐ 15/30
+
+[Safari 27.3 Adds Support for Global Privacy Control](https://pxlnv.com/linklog/safari-global-privacy-control/) — **daringfireball.net** · 11-10 14:47 · 📝 其他
+
+> Safari 27.3 Adds Support for Global Privacy Control
+
+---
+
+**11.** **‘A Scandal at the Center of the Economy’** — ⭐ 15/30
+
+[‘A Scandal at the Center of the Economy’](https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;) — **daringfireball.net** · 11-10 14:36 · 📝 其他
+
+> ‘A Scandal at the Center of the Economy’
+
+---
+
+**12.** **U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee** — ⭐ 15/30
+
+[U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb) — **daringfireball.net** · 11-10 14:35 · 📝 其他
+
+> U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee
+
+---
+
+**13.** **Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)](https://pluralistic.net/2026/11/10/worst-of-all-worlds/) — **pluralistic.net** · 11-10 17:34 · 📝 其他
+
+> Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)
+
+---
+
+**14.** **HowTo: Fix Eufy HomeBase 2 Storage Full Issues** — ⭐ 15/30
+
+[HowTo: Fix Eufy HomeBase 2 Storage Full Issues](https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/) — **shkspr.mobi** · 11-11 12:34 · 📝 其他
+
+> HowTo: Fix Eufy HomeBase 2 Storage Full Issues
+
+---
+
+**15.** **Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆** — ⭐ 15/30
+
+[Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆](https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/) — **shkspr.mobi** · 11-10 12:34 · 📝 其他
+
+> Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆
+
+---
+
+**16.** **Microsoft employee price list from 1987** — ⭐ 15/30
+
+[Microsoft employee price list from 1987](https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/) — **devblogs.microsoft.com/oldnewthing** · 11-10 15:00 · 📝 其他
+
+> Microsoft employee price list from 1987
+
+---
+
+**17.** **Balanced Incomplete Block Designs** — ⭐ 15/30
+
+[Balanced Incomplete Block Designs](https://www.johndcook.com/blog/2026/11/10/bibd/) — **johndcook.com** · 11-10 14:26 · 📝 其他
+
+> Balanced Incomplete Block Designs
+
+---
+
+**18.** **20 years of blogging** — ⭐ 15/30
+
+[20 years of blogging](https://www.gilesthomas.com/2026/11/20-years-of-blogging) — **gilesthomas.com** · 11-10 23:00 · 📝 其他
+
+> 20 years of blogging
+
+---
+
+**19.** **This Week in Source Control: 11 November 2026** — ⭐ 15/30
+
+[This Week in Source Control: 11 November 2026](https://nesbitt.io/2026/11/11/this-week-in-source-control.html) — **nesbitt.io** · 11-11 10:00 · 📝 其他
+
+> This Week in Source Control: 11 November 2026
+
+---
+
+**20.** **Jensen's Bizarre Adventure** — ⭐ 15/30
+
+[Jensen's Bizarre Adventure](https://www.wheresyoured.at/jensens-bizarre-adventure/) — **wheresyoured.at** · 11-10 17:43 · 📝 其他
+
+> Jensen's Bizarre Adventure
+
+---
+
+**21.** **Making a Website in 2026** — ⭐ 15/30
+
+[Making a Website in 2026](https://blog.jim-nielsen.com/2026/making-websites-in-2026/) — **blog.jim-nielsen.com** · 11-10 19:00 · 📝 其他
+
+> Making a Website in 2026
+
+---
+
+**22.** **Microsoft Windows first announced Nov 10, 1983** — ⭐ 15/30
+
+[Microsoft Windows first announced Nov 10, 1983](https://dfarq.homeip.net/microsoft-windows-first-announced-nov-10-1983/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=microsoft-windows-first-announced-nov-10-1983) — **dfarq.homeip.net** · 11-11 12:00 · 📝 其他
+
+> Microsoft Windows first announced Nov 10, 1983
+
+---
+
+**23.** **Novell’s lawsuits with Microsoft** — ⭐ 15/30
+
+[Novell’s lawsuits with Microsoft](https://dfarq.homeip.net/novells-lawsuits-with-microsoft/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=novells-lawsuits-with-microsoft) — **dfarq.homeip.net** · 11-10 12:00 · 📝 其他
+
+> Novell’s lawsuits with Microsoft
+
+---
+
+**24.** **Ms. Bashkansky, Please Do Not Build The Torment Nexus** — ⭐ 15/30
+
+[Ms. Bashkansky, Please Do Not Build The Torment Nexus](https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/) — **jyn.dev** · 11-11 00:00 · 📝 其他
+
+> Ms. Bashkansky, Please Do Not Build The Torment Nexus
+
+---
+
+**25.** **Monads in Lean** — ⭐ 15/30
+
+[Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/) — **eli.thegreenplace.net** · 11-11 03:25 · 📝 其他
+
+> Monads in Lean
+
+---
+
+**26.** **Revisiting Leander v Sweden and Big Brother Watch** — ⭐ 15/30
+
+[Revisiting Leander v Sweden and Big Brother Watch](https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/) — **berthub.eu** · 11-10 19:10 · 📝 其他
+
+> Revisiting Leander v Sweden and Big Brother Watch
+
+---
+
+**27.** **Finally, Payment by Bank Transfer Comes to Have I Been Pwned** — ⭐ 15/30
+
+[Finally, Payment by Bank Transfer Comes to Have I Been Pwned](https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/) — **troyhunt.com** · 11-10 20:26 · 📝 其他
+
+> Finally, Payment by Bank Transfer Comes to Have I Been Pwned
+
+---
+
+**28.** **We need more goat sacrifices** — ⭐ 15/30
+
+[We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices) — **experimental-history.com** · 11-10 17:21 · 📝 其他
+
+> We need more goat sacrifices
+
+---
+
+**29.** **Introducing Our Smallest, Most Efficient Model: Muse Ember** — ⭐ 15/30
+
+[Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/) — **simonwillison.net** · 11-10 07:28 · 📝 其他
+
+> Introducing Our Smallest, Most Efficient Model: Muse Ember
+
+---
+
+**30.** **Quoting Prompting Claude Fable 5.2** — ⭐ 15/30
+
+[Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/) — **simonwillison.net** · 11-10 05:34 · 📝 其他
+
+> Quoting Prompting Claude Fable 5.2
+
+---
+
+*Generated at 2026-11-11 14:49 | Scanned 30 daily digests · 492 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
