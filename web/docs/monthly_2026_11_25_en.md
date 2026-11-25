@@ -1,0 +1,248 @@
+# 📊 AI Blog Monthly Top 30 — 2026-11-25
+
+> Top 30 most impactful articles from the past 30 days, ranked by AI score
+
+---
+
+🥇 **Three LLM inflection points in twelve months** — ⭐ 15/30
+
+[Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) — **simonwillison.net** · 11-24 23:02 · 📝 其他
+
+> Three LLM inflection points in twelve months
+
+---
+
+🥈 **GPT 6.2 Astra Solves a Historical Mystery** — ⭐ 15/30
+
+[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/) — **simonwillison.net** · 11-24 16:53 · 📝 其他
+
+> GPT 6.2 Astra Solves a Historical Mystery
+
+---
+
+🥉 **20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain** — ⭐ 15/30
+
+[20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda) — **daringfireball.net** · 11-25 16:22 · 📝 其他
+
+> 20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain
+
+---
+
+**4.** **Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau** — ⭐ 15/30
+
+[Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau](https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/) — **daringfireball.net** · 11-24 23:41 · 📝 其他
+
+> Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau
+
+---
+
+**5.** **Trump Made Up to $15M on Nvidia Stock After Huang’s Return** — ⭐ 15/30
+
+[Trump Made Up to $15M on Nvidia Stock After Huang’s Return](https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market) — **daringfireball.net** · 11-24 23:07 · 📝 其他
+
+> Trump Made Up to $15M on Nvidia Stock After Huang’s Return
+
+---
+
+**6.** **Nvidia and Trump’s State Capitalism** — ⭐ 15/30
+
+[Nvidia and Trump’s State Capitalism](https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c) — **daringfireball.net** · 11-24 22:15 · 📝 其他
+
+> Nvidia and Trump’s State Capitalism
+
+---
+
+**7.** **Patriotism, Trump-Style** — ⭐ 15/30
+
+[Patriotism, Trump-Style](https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/) — **daringfireball.net** · 11-24 22:06 · 📝 其他
+
+> Patriotism, Trump-Style
+
+---
+
+**8.** **‘The Economy Is a Hostage Situation’** — ⭐ 15/30
+
+[‘The Economy Is a Hostage Situation’](https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&amp;) — **daringfireball.net** · 11-24 19:16 · 📝 其他
+
+> ‘The Economy Is a Hostage Situation’
+
+---
+
+**9.** **I Told You to Bet the Over** — ⭐ 15/30
+
+[I Told You to Bet the Over](https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV) — **daringfireball.net** · 11-24 19:12 · 📝 其他
+
+> I Told You to Bet the Over
+
+---
+
+**10.** **Restoring a 1982 ‘Star Wars’ Poster From Japan** — ⭐ 15/30
+
+[Restoring a 1982 ‘Star Wars’ Poster From Japan](https://www.instagram.com/p/DcUk0WjBwVI/) — **daringfireball.net** · 11-24 17:29 · 📝 其他
+
+> Restoring a 1982 ‘Star Wars’ Poster From Japan
+
+---
+
+**11.** **Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001** — ⭐ 15/30
+
+[Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001](https://www.threads.com/@meidastouch/post/DgGKhbTAka5) — **daringfireball.net** · 11-24 17:00 · 📝 其他
+
+> Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001
+
+---
+
+**12.** **David Sacks’s Pool Boy Is Cocky** — ⭐ 15/30
+
+[David Sacks’s Pool Boy Is Cocky](https://www.threads.com/@karaswisher/post/DgGBe_XI147) — **daringfireball.net** · 11-24 16:30 · 📝 其他
+
+> David Sacks’s Pool Boy Is Cocky
+
+---
+
+**13.** **Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker** — ⭐ 15/30
+
+[Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker](https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile) — **daringfireball.net** · 11-24 15:43 · 📝 其他
+
+> Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker
+
+---
+
+**14.** **Pluralistic: New York vs auto-enshittification (25 Nov 2026)** — ⭐ 15/30
+
+[Pluralistic: New York vs auto-enshittification (25 Nov 2026)](https://pluralistic.net/2026/11/25/empire-state-strikes-back/) — **pluralistic.net** · 11-25 13:42 · 📝 其他
+
+> Pluralistic: New York vs auto-enshittification (25 Nov 2026)
+
+---
+
+**15.** **Book Review: Slow Gods by Claire North ★★★★⯪** — ⭐ 15/30
+
+[Book Review: Slow Gods by Claire North ★★★★⯪](https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/) — **shkspr.mobi** · 11-25 12:34 · 📝 其他
+
+> Book Review: Slow Gods by Claire North ★★★★⯪
+
+---
+
+**16.** **What happens to entries in the CoreApplication Properties when the source apartment shuts down?** — ⭐ 15/30
+
+[What happens to entries in the CoreApplication Properties when the source apartment shuts down?](https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/) — **devblogs.microsoft.com/oldnewthing** · 11-24 15:00 · 📝 其他
+
+> What happens to entries in the CoreApplication Properties when the source apartment shuts down?
+
+---
+
+**17.** **Abolish Lock Poisoning** — ⭐ 15/30
+
+[Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/) — **lucumr.pocoo.org** · 11-25 00:00 · 📝 其他
+
+> Abolish Lock Poisoning
+
+---
+
+**18.** **Covering a body with eight smaller copies of itself** — ⭐ 15/30
+
+[Covering a body with eight smaller copies of itself](https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/) — **johndcook.com** · 11-25 14:51 · 📝 其他
+
+> Covering a body with eight smaller copies of itself
+
+---
+
+**19.** **Polynomials and Planets** — ⭐ 15/30
+
+[Polynomials and Planets](https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/) — **johndcook.com** · 11-25 13:44 · 📝 其他
+
+> Polynomials and Planets
+
+---
+
+**20.** **Taking a password joke seriously** — ⭐ 15/30
+
+[Taking a password joke seriously](https://www.johndcook.com/blog/2026/11/24/password-joke/) — **johndcook.com** · 11-24 15:16 · 📝 其他
+
+> Taking a password joke seriously
+
+---
+
+**21.** **Memorable 12-digit primes** — ⭐ 15/30
+
+[Memorable 12-digit primes](https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/) — **johndcook.com** · 11-24 14:13 · 📝 其他
+
+> Memorable 12-digit primes
+
+---
+
+**22.** **Advent of Microarchitecture 2026** — ⭐ 15/30
+
+[Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&amp;utm_medium=rss) — **xania.org** · 11-24 20:00 · 📝 其他
+
+> Advent of Microarchitecture 2026
+
+---
+
+**23.** **This Week in Source Control: 25 November 2026** — ⭐ 15/30
+
+[This Week in Source Control: 25 November 2026](https://nesbitt.io/2026/11/25/this-week-in-source-control.html) — **nesbitt.io** · 11-25 10:00 · 📝 其他
+
+> This Week in Source Control: 25 November 2026
+
+---
+
+**24.** **Responding to objections to recursive self-improvement** — ⭐ 15/30
+
+[Responding to objections to recursive self-improvement](https://www.dwarkesh.com/p/rsiobjections) — **dwarkesh.com** · 11-24 21:45 · 📝 其他
+
+> Responding to objections to recursive self-improvement
+
+---
+
+**25.** **Defective Accelerationism** — ⭐ 15/30
+
+[Defective Accelerationism](https://www.wheresyoured.at/defective-accelerationism/) — **wheresyoured.at** · 11-24 18:08 · 📝 其他
+
+> Defective Accelerationism
+
+---
+
+**26.** **Have You Tried Using Your Agent?** — ⭐ 15/30
+
+[Have You Tried Using Your Agent?](https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/) — **blog.jim-nielsen.com** · 11-25 19:00 · 📝 其他
+
+> Have You Tried Using Your Agent?
+
+---
+
+**27.** **How the Tandy 2000 doomed Tandy computers** — ⭐ 15/30
+
+[How the Tandy 2000 doomed Tandy computers](https://dfarq.homeip.net/how-the-tandy-2000-doomed-tandy-computers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-the-tandy-2000-doomed-tandy-computers) — **dfarq.homeip.net** · 11-25 12:00 · 📝 其他
+
+> How the Tandy 2000 doomed Tandy computers
+
+---
+
+**28.** **Blogger broke the lightbox** — ⭐ 15/30
+
+[Blogger broke the lightbox](https://oldvcr.blogspot.com/feeds/5858668465922283623/comments/default) — **oldvcr.blogspot.com** · 11-24 21:27 · 📝 其他
+
+> Blogger broke the lightbox
+
+---
+
+**29.** **Everything I know about writing** — ⭐ 15/30
+
+[Everything I know about writing](https://www.experimental-history.com/p/everything-i-know-about-writing) — **experimental-history.com** · 11-24 17:18 · 📝 其他
+
+> Everything I know about writing
+
+---
+
+**30.** **How to install an app on your Commodore 64** — ⭐ 15/30
+
+[How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — **anildash.com** · 11-24 14:13 · 📝 其他
+
+> How to install an app on your Commodore 64
+
+---
+
+*Generated at 2026-11-25 17:42 | Scanned 30 daily digests · 562 articles parsed · Top 30 selected from past 30 days*
+*Based on [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS feed list, recommended by [Andrej Karpathy](https://x.com/karpathy)*
